@@ -1,12 +1,13 @@
 {
-  "name": "api-consultorios",
+  "name": "node-consultorio-odontologico-backend",
   "homepage": "https://jorgelmunozp.github.io/node-consultorio-odontologico-backend/",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "json-server --watch database/database.json",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": "npm test"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
