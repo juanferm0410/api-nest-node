@@ -1,0 +1,653 @@
+{
+  "citas": [
+    {
+      "cita": {
+        "paciente": "Ana Lopez",
+        "fecha": "2022-03-01",
+        "hora": "08:00",
+        "consultorio": "101",
+        "medico": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 1
+    },
+    {
+      "cita": {
+        "paciente": "Larry Vasquez",
+        "fecha": "2022-04-10",
+        "hora": "09:00",
+        "consultorio": "201",
+        "medico": "Jose Castillo",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 2
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-12",
+        "hora": "22:21",
+        "consultorio": "101",
+        "medico": "Dayana Serna",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 3
+    },
+    {
+      "cita": {
+        "paciente": "Jose Carrascal",
+        "fecha": "2022-03-12",
+        "hora": "22:23",
+        "consultorio": "201",
+        "medico": "Mateo García",
+        "tratamiento": "Prótesis"
+      },
+      "id": 4
+    },
+    {
+      "cita": {
+        "paciente": "Paola Gonzalez",
+        "fecha": "2022-03-14",
+        "hora": "10:14",
+        "consultorio": "302",
+        "medico": "Mateo García",
+        "tratamiento": "Higiene"
+      },
+      "id": 5
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-14",
+        "hora": "10:15",
+        "consultorio": "102",
+        "medico": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 6
+    },
+    {
+      "cita": {
+        "paciente": "Jose Carrascal",
+        "fecha": "2022-03-14",
+        "hora": "10:18",
+        "consultorio": "202",
+        "medico": "Jose Castillo",
+        "tratamiento": "Higiene"
+      },
+      "id": 7
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-14",
+        "hora": "10:47",
+        "consultorio": "401",
+        "medico": "Jorge Muñoz",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 8
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-14",
+        "hora": "11:41",
+        "consultorio": "102",
+        "medico": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 9
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:16",
+        "consultorio": "301",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 10
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:17",
+        "consultorio": "301",
+        "medico": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 11
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:18",
+        "consultorio": "201",
+        "medico": "Jose Castillo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 12
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:18",
+        "consultorio": "201",
+        "medico": "Jose Castillo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 13
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:29",
+        "consultorio": "402",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 14
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:30",
+        "consultorio": "101",
+        "medico": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 15
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:32",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 16
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:34",
+        "consultorio": "201",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 17
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:35",
+        "consultorio": "201",
+        "medico": "Jose Castillo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 18
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:36",
+        "consultorio": "202",
+        "medico": "Jose Castillo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 19
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:38",
+        "consultorio": "401",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 20
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:45",
+        "consultorio": "201",
+        "medico": "Jose Castillo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 21
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:48",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 22
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:49",
+        "consultorio": "301",
+        "medico": "Junior Jein",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 23
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:50",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 24
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:52",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 25
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "09:53",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 26
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "10:13",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 27
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-15",
+        "hora": "11:09",
+        "consultorio": "202",
+        "medico": "Junior Jein",
+        "tratamiento": "Higiene"
+      },
+      "id": 28
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2022-03-15",
+        "hora": "12:40",
+        "consultorio": "402",
+        "medico": "Andrea Reyes",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 29
+    },
+    {
+      "cita": {
+        "paciente": "Larry Caboa",
+        "fecha": "2022-03-17",
+        "hora": "16:21",
+        "consultorio": "801",
+        "medico": "Junior Jein",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 30
+    }
+  ],
+  "pacientes": [
+    {
+      "paciente": {
+        "nombre": "Larry",
+        "apellido": "Caboa",
+        "identificacion": "1061",
+        "genero": "Masculino",
+        "eps": "Sanitas"
+      },
+      "id": 1
+    },
+    {
+      "paciente": {
+        "nombre": "Jose",
+        "apellido": "Carrascal",
+        "identificacion": "1062",
+        "genero": "Masculino",
+        "eps": "Nueva Eps"
+      },
+      "id": 2
+    },
+    {
+      "paciente": {
+        "nombre": "Paola",
+        "apellido": "Gonzalez",
+        "identificacion": "1063",
+        "genero": "Femenino",
+        "eps": "Nueva Eps"
+      },
+      "id": 3
+    },
+    {
+      "paciente": {
+        "nombre": "Luisa",
+        "apellido": "Vasquez",
+        "identificacion": "1064",
+        "genero": "Femenino",
+        "eps": "Saludcoop"
+      },
+      "paciente2": {
+        "Id": 2,
+        "Nombre": "",
+        "Apellido": "",
+        "Identificacion": "",
+        "Genero": "",
+        "Eps": ""
+      },
+      "id": 4
+    },
+    {
+      "paciente": {
+        "nombre": "Diana",
+        "apellido": "Rojas",
+        "identificacion": "1065",
+        "genero": "Femenino",
+        "eps": "EPS Sanitas"
+      },
+      "id": 5
+    },
+    {
+      "paciente": {
+        "nombre": "Juan",
+        "apellido": "Lleras",
+        "identificacion": "1066",
+        "genero": "Masculino",
+        "eps": "EPS Sanitas"
+      },
+      "id": 6
+    },
+    {
+      "paciente": {
+        "nombre": "Natalia",
+        "apellido": "Paris",
+        "identificacion": "1067",
+        "genero": "Femenino",
+        "eps": "EPS Sanitas"
+      },
+      "id": 7
+    }
+  ],
+  "doctores": [
+    {
+      "doctor": {
+        "nombre": "Jorge",
+        "apellido": "Muñoz",
+        "especialidad": "Blanqueamiento"
+      },
+      "id": 1
+    },
+    {
+      "doctor": {
+        "nombre": "Jose",
+        "apellido": "Castillo",
+        "especialidad": "Diseño Sonrisa"
+      },
+      "id": 2
+    },
+    {
+      "doctor": {
+        "nombre": "Mateo",
+        "apellido": "García",
+        "especialidad": "Ortodoncia"
+      },
+      "id": 3
+    },
+    {
+      "doctor": {
+        "nombre": "Edwin",
+        "apellido": "Perez",
+        "especialidad": "Prótesis"
+      },
+      "id": 4
+    },
+    {
+      "doctor": {
+        "nombre": "Dayana",
+        "apellido": "Serna",
+        "especialidad": "Higiene"
+      },
+      "id": 5
+    },
+    {
+      "doctor": {
+        "nombre": "Junior",
+        "apellido": "Jein",
+        "especialidad": "Ortodoncia"
+      },
+      "id": 6
+    },
+    {
+      "doctor": {
+        "nombre": "Andrea",
+        "apellido": "Reyes",
+        "especialidad": "Blanqueamiento"
+      },
+      "id": 7
+    },
+    {
+      "doctor": {
+        "nombre": "Jennifer",
+        "apellido": "Sarria",
+        "especialidad": "Higiene"
+      },
+      "id": 8
+    }
+  ],
+  "tratamientos": [
+    {
+      "tratamiento": {
+        "tipo": "Diseño Sonrisa",
+        "consultorio": "101",
+        "doctor": "Jose Castillo"
+      },
+      "id": 1
+    },
+    {
+      "tratamiento": {
+        "tipo": "Blanqueamiento",
+        "consultorio": "102",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 2
+    },
+    {
+      "tratamiento": {
+        "tipo": "Ortodoncia",
+        "consultorio": "201",
+        "doctor": "Mateo Garcia"
+      },
+      "id": 3
+    },
+    {
+      "tratamiento": {
+        "tipo": "Prótesis",
+        "consultorio": "202",
+        "doctor": "Edwin Perez"
+      },
+      "id": 4
+    },
+    {
+      "tratamiento": {
+        "tipo": "Higiene",
+        "consultorio": "301",
+        "doctor": "Dayana Serna"
+      },
+      "id": 5
+    },
+    {
+      "tratamiento": {
+        "tipo": "Cirugía",
+        "consultorio": "302",
+        "doctor": "Junior Jein"
+      },
+      "id": 6
+    },
+    {
+      "tratamiento": {
+        "tipo": "Extracción",
+        "consultorio": "401",
+        "doctor": "Junior Jein"
+      },
+      "id": 7
+    },
+    {
+      "tratamiento": {
+        "tipo": "Imagenología",
+        "consultorio": "402",
+        "doctor": "Jennifer Sarria"
+      },
+      "id": 8
+    }
+  ],
+  "consultorios": [
+    {
+      "consultorio": {
+        "numero": 101,
+        "nombre": "Blanqueamiento"
+      },
+      "id": 1
+    },
+    {
+      "consultorio": {
+        "numero": 102,
+        "nombre": "Higiene"
+      },
+      "id": 2
+    },
+    {
+      "consultorio": {
+        "numero": 201,
+        "nombre": "Prótesis"
+      },
+      "id": 3
+    },
+    {
+      "consultorio": {
+        "numero": 202,
+        "nombre": "Ortodoncia"
+      },
+      "id": 4
+    },
+    {
+      "consultorio": {
+        "numero": 301,
+        "nombre": "Diseño Sonrisa"
+      },
+      "id": 5
+    },
+    {
+      "consultorio": {
+        "numero": 302,
+        "nombre": "Endodoncia"
+      },
+      "id": 6
+    },
+    {
+      "consultorio": {
+        "numero": "401",
+        "nombre": "Detartraje"
+      },
+      "id": 7
+    },
+    {
+      "consultorio": {
+        "numero": "402",
+        "nombre": "Laboratorio"
+      },
+      "id": 8
+    },
+    {
+      "consultorio": {
+        "numero": "501",
+        "nombre": "Rayos X"
+      },
+      "id": 9
+    },
+    {
+      "consultorio": {
+        "numero": "502",
+        "nombre": "Consultas"
+      },
+      "id": 10
+    },
+    {
+      "consultorio": {
+        "numero": "603",
+        "nombre": "Gerencia"
+      },
+      "id": 11
+    },
+    {
+      "consultorio": {
+        "numero": "604",
+        "nombre": "Presidencia"
+      },
+      "id": 12
+    },
+    {
+      "consultorio": {
+        "numero": "701",
+        "nombre": "Terraza"
+      },
+      "id": 13
+    },
+    {
+      "consultorio": {
+        "numero": "702",
+        "nombre": "Azotea"
+      },
+      "id": 14
+    },
+    {
+      "consultorio": {
+        "numero": "801",
+        "nombre": "Hall"
+      },
+      "id": 15
+    }
+  ]
+}
