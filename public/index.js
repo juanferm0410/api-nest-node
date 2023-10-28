@@ -1,5 +1,4 @@
-const ip = '192.168.10.86';
-//const ip = '192.168.18.18';
+const ip = '192.168.18.249';
 const puerto = '8888';
  
 const urlApiTratamientos = 'http://'+ip+':'+puerto+'/tratamientos';

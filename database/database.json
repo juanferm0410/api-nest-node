@@ -35,7 +35,7 @@
     },
     {
       "cita": {
-        "paciente": "Jose Carrascal",
+        "paciente": "Jose Urbano",
         "fecha": "2022-03-12",
         "hora": "22:23",
         "consultorio": "201",
@@ -46,7 +46,7 @@
     },
     {
       "cita": {
-        "paciente": "Paola Gonzalez",
+        "paciente": "Paola Perez",
         "fecha": "2022-03-14",
         "hora": "10:14",
         "consultorio": "302",
@@ -68,7 +68,7 @@
     },
     {
       "cita": {
-        "paciente": "Jose Carrascal",
+        "paciente": "Jose Tobon",
         "fecha": "2022-03-14",
         "hora": "10:18",
         "consultorio": "202",
@@ -79,7 +79,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Camila Toro",
         "fecha": "2022-03-14",
         "hora": "10:47",
         "consultorio": "401",
@@ -101,7 +101,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Daniel Ruiz",
         "fecha": "2022-03-15",
         "hora": "09:16",
         "consultorio": "301",
@@ -112,7 +112,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "David Serna",
         "fecha": "2022-03-15",
         "hora": "09:17",
         "consultorio": "301",
@@ -134,7 +134,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Andres Mera",
         "fecha": "2022-03-15",
         "hora": "09:18",
         "consultorio": "201",
@@ -145,7 +145,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Claudia Daza",
         "fecha": "2022-03-15",
         "hora": "09:29",
         "consultorio": "402",
@@ -156,7 +156,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Lisa Sanchez",
         "fecha": "2022-03-15",
         "hora": "09:30",
         "consultorio": "101",
@@ -167,7 +167,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Ariel Paz",
         "fecha": "2022-03-15",
         "hora": "09:32",
         "consultorio": "202",
@@ -178,7 +178,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Juan Teran",
         "fecha": "2022-03-15",
         "hora": "09:34",
         "consultorio": "201",
@@ -189,7 +189,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Ana Ruiz",
         "fecha": "2022-03-15",
         "hora": "09:35",
         "consultorio": "201",
@@ -200,7 +200,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Jorge Pabon",
         "fecha": "2022-03-15",
         "hora": "09:36",
         "consultorio": "202",
@@ -211,7 +211,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Rosario Diaz",
         "fecha": "2022-03-15",
         "hora": "09:38",
         "consultorio": "401",
@@ -222,7 +222,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Yeni Ramos",
         "fecha": "2022-03-15",
         "hora": "09:45",
         "consultorio": "201",
@@ -233,7 +233,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Felipe Tascon",
         "fecha": "2022-03-15",
         "hora": "09:48",
         "consultorio": "202",
@@ -244,7 +244,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Simon Lopez",
         "fecha": "2022-03-15",
         "hora": "09:49",
         "consultorio": "301",
@@ -266,7 +266,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Maria Sarria",
         "fecha": "2022-03-15",
         "hora": "09:52",
         "consultorio": "202",
@@ -277,7 +277,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Oscar Vargas",
         "fecha": "2022-03-15",
         "hora": "09:53",
         "consultorio": "202",
@@ -288,7 +288,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Diana Pabon",
         "fecha": "2022-03-15",
         "hora": "10:13",
         "consultorio": "202",
@@ -299,7 +299,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Caboa",
+        "paciente": "Luisa Ordoñez",
         "fecha": "2022-03-15",
         "hora": "11:09",
         "consultorio": "202",
@@ -345,7 +345,7 @@
     {
       "paciente": {
         "nombre": "Jose",
-        "apellido": "Carrascal",
+        "apellido": "Roman",
         "identificacion": "1062",
         "genero": "Masculino",
         "eps": "Nueva Eps"
@@ -355,7 +355,7 @@
     {
       "paciente": {
         "nombre": "Paola",
-        "apellido": "Gonzalez",
+        "apellido": "Muñoz",
         "identificacion": "1063",
         "genero": "Femenino",
         "eps": "Nueva Eps"
@@ -368,7 +368,7 @@
         "apellido": "Vasquez",
         "identificacion": "1064",
         "genero": "Femenino",
-        "eps": "Saludcoop"
+        "eps": "SaludTotal"
       },
       "paciente2": {
         "Id": 2,
@@ -386,7 +386,7 @@
         "apellido": "Rojas",
         "identificacion": "1065",
         "genero": "Femenino",
-        "eps": "EPS Sanitas"
+        "eps": "Sanitas"
       },
       "id": 5
     },
@@ -396,7 +396,7 @@
         "apellido": "Lleras",
         "identificacion": "1066",
         "genero": "Masculino",
-        "eps": "EPS Sanitas"
+        "eps": "Sanitas"
       },
       "id": 6
     },
@@ -406,7 +406,7 @@
         "apellido": "Paris",
         "identificacion": "1067",
         "genero": "Femenino",
-        "eps": "EPS Sanitas"
+        "eps": "Sanitas"
       },
       "id": 7
     }
@@ -416,7 +416,7 @@
       "doctor": {
         "nombre": "Jorge",
         "apellido": "Muñoz",
-        "especialidad": "Blanqueamiento"
+        "especialidad": "Odontólogo"
       },
       "id": 1
     },
@@ -424,7 +424,7 @@
       "doctor": {
         "nombre": "Jose",
         "apellido": "Castillo",
-        "especialidad": "Diseño Sonrisa"
+        "especialidad": "Ortodoncista"
       },
       "id": 2
     },
@@ -432,7 +432,7 @@
       "doctor": {
         "nombre": "Mateo",
         "apellido": "García",
-        "especialidad": "Ortodoncia"
+        "especialidad": "Ortodoncista"
       },
       "id": 3
     },
@@ -440,7 +440,7 @@
       "doctor": {
         "nombre": "Edwin",
         "apellido": "Perez",
-        "especialidad": "Prótesis"
+        "especialidad": "Odontólogo"
       },
       "id": 4
     },
@@ -448,7 +448,7 @@
       "doctor": {
         "nombre": "Dayana",
         "apellido": "Serna",
-        "especialidad": "Higiene"
+        "especialidad": "Periodoncista"
       },
       "id": 5
     },
@@ -456,7 +456,7 @@
       "doctor": {
         "nombre": "Junior",
         "apellido": "Jein",
-        "especialidad": "Ortodoncia"
+        "especialidad": "Endodoncista"
       },
       "id": 6
     },
@@ -464,15 +464,15 @@
       "doctor": {
         "nombre": "Andrea",
         "apellido": "Reyes",
-        "especialidad": "Blanqueamiento"
+        "especialidad": "Odontopediatra"
       },
       "id": 7
     },
     {
       "doctor": {
-        "nombre": "Jennifer",
+        "nombre": "Jenifer",
         "apellido": "Sarria",
-        "especialidad": "Higiene"
+        "especialidad": "Auxiliar"
       },
       "id": 8
     }
@@ -538,7 +538,7 @@
       "tratamiento": {
         "tipo": "Imagenología",
         "consultorio": "402",
-        "doctor": "Jennifer Sarria"
+        "doctor": "Jenifer Sarria"
       },
       "id": 8
     }

@@ -6,7 +6,6 @@
 }
 
 *{
-  
   font: 20px 'Century Gothic', Helvetica, Arial, sans-serif;
   letter-spacing: 2px;
 }
@@ -14,7 +13,7 @@
 body {
   margin: 0;
   /* background: url("/images/fondo.jpg"); */
-  background-size: cover;
+  /* background-size: cover; */
   background-color: #fdfdfd;
   font-size: 30px;
   color: transparent;
@@ -33,7 +32,7 @@ head{							/***** Contenedor div del header *****/
 #header{							/***** Contenedor div del header *****/
   background-color: var(--main-background-color);
   width:100%;
-  height: 100px;
+  height: 10vmin;
   position:static;
 }
 
@@ -42,17 +41,18 @@ head{							/***** Contenedor div del header *****/
   margin-right: auto;
 }
 #header img{								          /***** Logo header *****/
-  width: 60px;
+  width: 6vmin;
   filter: drop-shadow(1px 1px 2px rgb(200, 200, 200, 0.5));
 }
 #header h1 {								        /***** Titulo header *****/
-  font-size: 40px;
-  color: var(--white-color);
-  text-shadow: 1px 1px 1px rgba(100, 100, 100, 0.5);
   position: static;
+  margin-top: 2vmin;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--white-color);
+  font-size: 4vmin;
   letter-spacing: 5px;
-  margin-top: 20px;
-  margin-left: 1vw;
+  text-shadow: 1px 1px 1px rgba(100, 100, 100, 0.5);
 }
 
 #header #fotoPerfil{                        /****** Foto perfil *****/
@@ -101,8 +101,8 @@ nav div a:hover{
   text-align: center;
 }
 #encabezado h1{
-  font-size: 30px;
-  letter-spacing: 5px;
+  font-size: 3vmin;
+  letter-spacing: 3px;
   color: var(--main-background-color);
   text-shadow: 1px 1px 2px lightgray;
 }
@@ -133,7 +133,7 @@ nav div a:hover{
 }
 #contenido table td{
   color: var(--darkgray-color);
-  padding: 0.25vh 1vw;
+  padding: 0.25vmin 1vmin;
 }
 #contenido table tr:nth-child(even){background-color: #fff}
 #contenido table tr:nth-child(odd){background-color: #f1f1f1}
@@ -176,6 +176,10 @@ input[type=submit]{
   text-align: center;
   color: var(--main-background-color);
   text-shadow: 1px 1px 1px rgb(100, 100, 100, 0.5);
+}
+
+.tratamientos {
+  width: 100%;
 }
 
 
