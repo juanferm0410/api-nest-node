@@ -2,6 +2,7 @@
 <h2 align="center">Backend NodeJs App </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NodeJs-43853d">
   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
   <img src="https://img.shields.io/badge/Html-e34c26">
   <img src="https://img.shields.io/badge/Css-563d7c">
