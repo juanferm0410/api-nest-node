@@ -20,7 +20,7 @@
 
 ## Description
 
-This project consists of the development of a Agenda Consultorio Odontológico  database application with API RESTful architecture.
+This project consists of the development of a Agenda Consultorio Odontológico aplication with non relational database Mongo DB and API RESTful architecture to connect with the client app.
 
 * This project was developed with JavaScript ES6, Html, and Css in Node Js.
 
