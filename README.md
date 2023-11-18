@@ -1,4 +1,5 @@
-<h1 align="center">Agenda Consultorio Odontológico | Backend NodeJs App </h1>
+<h1 align="center">Agenda Consultorio Odontológico </h1>
+<h2 align="center">Backend NodeJs App </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
