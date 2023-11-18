@@ -6,16 +6,21 @@
         <link rel="stylesheet" href="/stylesheets/style.css"/>  
         <link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
         <div id="header">
+            <title>Agenda Médica</title>
             <table>
                 <tbody>
                     <tr>
                         <td><a href="/"><img id="logo" src="/images/logo.png"/></a></td>
+                        <td></td>
                         <td><h1>Consultorio Odontológico</h1></td>
                     </tr>
                 </tbody>
             </table>
-            <title>Base Datos consultorio odontológico</title>
-            
+            <div id="menu">
+                <form action="/">
+                  <input type="submit" value="↺" />
+                </form>
+            </div>
         </div>
     </head>
     <body>
@@ -23,11 +28,6 @@
             <h1>Sistema de Información Médico </h1>  
         </div>
         <div id="contenido">
-            <div>
-                <form action="/">
-                  <input type="submit" value="Refrescar" />
-                </form>
-            </div>
             <div id="contenidoCitas">
             </div>
             <div id="contenidoPacientes">
@@ -39,7 +39,9 @@
             <div id="contenidoConsultorios">
             </div>
             <div>
+              <hr/>
               <h3>Tratamientos</h3>
+              <hr/>
               <table border="1">
                   <tr>
                     <th>Diseño Sonrisa</th>

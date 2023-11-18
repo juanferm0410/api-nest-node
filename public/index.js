@@ -1,11 +1,11 @@
-const ip = '192.168.18.249';
-const puerto = '8888';
- 
+const ip = 'localhost';
+const puerto = '3000';
+
 const urlApiTratamientos = 'http://'+ip+':'+puerto+'/tratamientos';
-const urlApidoctores = 'http://'+ip+':'+puerto+'/doctores';
-const urlApicitas = 'http://'+ip+':'+puerto+'/citas';
-const urlApipacientes = 'http://'+ip+':'+puerto+'/pacientes';
-const urlApiconsultorios = 'http://'+ip+':'+puerto+'/consultorios';
+const urlApiDoctores = 'http://'+ip+':'+puerto+'/doctores';
+const urlApiCitas = 'http://'+ip+':'+puerto+'/citas';
+const urlApiPacientes = 'http://'+ip+':'+puerto+'/pacientes';
+const urlApiConsultorios = 'http://'+ip+':'+puerto+'/consultorios';
 
 
 const formatterPeso = new Intl.NumberFormat('es-CO', {   //Formato moneda $ pesos Colmbianos
@@ -18,15 +18,17 @@ const formatterMiles = new Intl.NumberFormat('es-CO', {   //Formato miles para c
   minimumFractionDigits: 0
 });
 
-fetch(urlApicitas)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+fetch(urlApiCitas)                 //API REST para la simulación de la tabla tratamientos de la base de datos
 .then(response => response.json())
 .then(citas => {
 
     let contenidoCitas = document.getElementById('contenidoCitas');
 
     const headerCitas = `
-    <div class="columnaContenido">  
+    <div class="columnaContenido">
+      <hr/>
       <h3> Citas Registradas </h3>
+      <hr/>
       <table border='1'>
         <tr>
           <th> N° </th>
@@ -65,7 +67,7 @@ fetch(urlApicitas)                 //API REST para la simulación de la tabla tr
 });
 
 
-fetch(urlApipacientes)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+fetch(urlApiPacientes)                 //API REST para la simulación de la tabla tratamientos de la base de datos
 .then(response => response.json())
 .then(pacientes => {
 
@@ -73,7 +75,9 @@ fetch(urlApipacientes)                 //API REST para la simulación de la tabl
 
     const headerPacientes = `
           <div class="columnaContenido">  
+            <hr/>
             <h3> Pacientes Afiliados </h3>
+            <hr/>
             <table border='1'>
               <tr>
                 <th> Id </th>
@@ -118,8 +122,10 @@ fetch(urlApiTratamientos)                 //API REST para la simulación de la t
       let contenidoTratamientos = document.getElementById('contenidoTratamientos');
 
       const headerTratamientos = `
-      <div class="columnaContenido">  
+      <div class="columnaContenido"> 
+      <hr/>
       <h3> Tratamientos Autorizados </h3>
+      <hr/>
       <table border='1'>
         <tr>
           <th> N° </th>
@@ -155,13 +161,15 @@ fetch(urlApiTratamientos)                 //API REST para la simulación de la t
 
 
 
-fetch(urlApidoctores)                 //API REST para la simulación de la tabla doctores de la base de datos
+fetch(urlApiDoctores)                 //API REST para la simulación de la tabla doctores de la base de datos
   .then(response => response.json())
   .then(doctores => {
       let contenidoDoctores = document.getElementById('contenidoDoctores');
       const headerDoctores =  `  
           <div class="columnaContenido"> 
+            <hr/>
             <h3> Doctores Disponibles </h3>
+            <hr/>
               <table border='1'>
                 <tr>
                   <th> Id </th>
@@ -194,7 +202,7 @@ fetch(urlApidoctores)                 //API REST para la simulación de la tabla
 
   
 
-  fetch(urlApiconsultorios)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+  fetch(urlApiConsultorios)                 //API REST para la simulación de la tabla tratamientos de la base de datos
     .then(response => response.json())
     .then(consultorios => {
     
@@ -202,7 +210,9 @@ fetch(urlApidoctores)                 //API REST para la simulación de la tabla
   
         const headerConsultorios = ` 
         <div class="columnaContenido">  
+        <hr/>
         <h3> Consultorios Disponibles </h3>
+        <hr/>
         <table border='1'>
           <tr>
             <th> N° </th>
