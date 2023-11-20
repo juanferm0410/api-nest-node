@@ -474,11 +474,11 @@
     },
     {
       "paciente": {
-        "nombre": "",
-        "apellido": "",
-        "identificacion": "",
-        "genero": "​",
-        "eps": "​"
+        "nombre": "Juan",
+        "apellido": "Diaz",
+        "identificacion": "1072",
+        "genero": "Masculino​",
+        "eps": "EPS Sanitas​"
       },
       "id": 12
     },
@@ -486,7 +486,7 @@
       "paciente": {
         "nombre": "Luisa",
         "apellido": "Silva",
-        "identificacion": "1072",
+        "identificacion": "1073",
         "genero": "Femenino",
         "eps": "EPS Sanitas"
       },
@@ -639,6 +639,14 @@
         "doctor": "Jenifer Sarria"
       },
       "id": 8
+    },
+    {
+      "tratamiento": {
+        "tipo": "Odontopediatría",
+        "consultorio": "502",
+        "doctor": "Andrea Reyes"
+      },
+      "id": 9
     }
   ],
   "consultorios": [
