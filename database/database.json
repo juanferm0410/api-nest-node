@@ -329,6 +329,28 @@
         "tratamiento": "Diseño Sonrisa"
       },
       "id": 30
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-18",
+        "hora": "22:14",
+        "consultorio": "502",
+        "medico": "Mateo García",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 31
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-18",
+        "hora": "22:26",
+        "consultorio": "202",
+        "medico": "Andrea Reyes",
+        "tratamiento": "Cirugía"
+      },
+      "id": 32
     }
   ],
   "pacientes": [
@@ -409,6 +431,66 @@
         "eps": "Sanitas"
       },
       "id": 7
+    },
+    {
+      "paciente": {
+        "nombre": "Maira",
+        "apellido": "Muñoz",
+        "identificacion": "1068",
+        "genero": "Femenino",
+        "eps": "Nueva Eps"
+      },
+      "id": 8
+    },
+    {
+      "paciente": {
+        "nombre": "Ana",
+        "apellido": "Marin",
+        "identificacion": "1069",
+        "genero": "Femenino",
+        "eps": "EPS Sanitas"
+      },
+      "id": 9
+    },
+    {
+      "paciente": {
+        "nombre": "Pepe",
+        "apellido": "Sanz",
+        "identificacion": "1070",
+        "genero": "Masculino",
+        "eps": "Saludcoop"
+      },
+      "id": 10
+    },
+    {
+      "paciente": {
+        "nombre": "Carlos",
+        "apellido": "Ruiz",
+        "identificacion": "1071",
+        "genero": "Masculino",
+        "eps": "Nueva Eps"
+      },
+      "id": 11
+    },
+    {
+      "paciente": {
+        "nombre": "",
+        "apellido": "",
+        "identificacion": "",
+        "genero": "​",
+        "eps": "​"
+      },
+      "id": 12
+    },
+    {
+      "paciente": {
+        "nombre": "Luisa",
+        "apellido": "Silva",
+        "identificacion": "1072",
+        "genero": "Femenino",
+        "eps": "EPS Sanitas"
+      },
+      "id": 13
     }
   ],
   "doctores": [
@@ -475,6 +557,22 @@
         "especialidad": "Auxiliar"
       },
       "id": 8
+    },
+    {
+      "doctor": {
+        "nombre": "Lorenzo",
+        "apellido": "Lopez",
+        "especialidad": "Diseño Sonrisa"
+      },
+      "id": 9
+    },
+    {
+      "doctor": {
+        "nombre": "Johana",
+        "apellido": "Dorado",
+        "especialidad": "Prótesis"
+      },
+      "id": 10
     }
   ],
   "tratamientos": [
