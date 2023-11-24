@@ -56,7 +56,7 @@ fetch(urlApiCitas)                 //API REST para la simulación de la tabla tr
           <td> ${citas[i].cita.fecha} </td>
           <td> ${citas[i].cita.hora} </td>
           <td> ${citas[i].cita.consultorio} </td>
-          <td> ${citas[i].cita.medico} </td>
+          <td> ${citas[i].cita.doctor} </td>
           <td> ${citas[i].cita.tratamiento} </td>
        </tr>  
     `};
