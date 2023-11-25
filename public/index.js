@@ -144,7 +144,7 @@ fetch(urlApiTratamientos)                 //API REST para la simulación de la t
           bodyTratamientos[i] = `
             <tr>
               <td> ${tratamientos[i].id} </td>
-              <td> ${tratamientos[i].tratamiento.tipo} </td>
+              <td> ${tratamientos[i].tratamiento.nombre} </td>
               <td> ${tratamientos[i].tratamiento.consultorio} </td>
               <td> ${tratamientos[i].tratamiento.doctor} </td>
             </tr>
