@@ -46,7 +46,7 @@
     },
     {
       "cita": {
-        "paciente": "Larry Vasquez",
+        "paciente": "Pepe Sanz",
         "fecha": "2023-11-25",
         "hora": "15:26",
         "consultorio": "201",
@@ -79,7 +79,7 @@
     },
     {
       "cita": {
-        "paciente": "Jose Roman",
+        "paciente": "Paola Muñoz",
         "fecha": "2023-11-25",
         "hora": "15:49",
         "consultorio": "501",
@@ -87,17 +87,6 @@
         "tratamiento": "Imagenología"
       },
       "id": 36
-    },
-    {
-      "cita": {
-        "paciente": "Larry Vasquez",
-        "fecha": "2023-11-25",
-        "hora": "15:49",
-        "consultorio": "501",
-        "doctor": "Rene Rosas",
-        "tratamiento": "Cirugía"
-      },
-      "id": 37
     },
     {
       "cita": {
@@ -167,14 +156,80 @@
     },
     {
       "cita": {
-        "paciente": "Jose Roman",
-        "fecha": "2023-11-26",
-        "hora": "23:39",
-        "consultorio": "102",
-        "doctor": "Rene Rosas",
-        "tratamiento": "Diseño"
+        "paciente": "Larry Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "08:35",
+        "consultorio": "202",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
       },
       "id": 45
+    },
+    {
+      "cita": {
+        "paciente": "​",
+        "fecha": "2023-11-27",
+        "hora": "08:35",
+        "consultorio": "​",
+        "doctor": "​",
+        "tratamiento": "​"
+      },
+      "id": 46
+    },
+    {
+      "cita": {
+        "paciente": "​",
+        "fecha": "2023-11-27",
+        "hora": "08:49",
+        "consultorio": "​",
+        "doctor": "​",
+        "tratamiento": "​"
+      },
+      "id": 47
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "09:39",
+        "consultorio": "502",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 48
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "",
+        "hora": "",
+        "consultorio": "502",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 49
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "",
+        "hora": "",
+        "consultorio": "502",
+        "doctor": "Lorenzo Lopez",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 50
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "",
+        "hora": "",
+        "consultorio": "402",
+        "doctor": "Johana Dorado",
+        "tratamiento": "Prótesis"
+      },
+      "id": 51
     }
   ],
   "pacientes": [
@@ -204,7 +259,7 @@
         "nombre": "Paola",
         "apellido": "Muñoz",
         "genero": "Femenino",
-        "eps": "Nueva"
+        "eps": "Nueva EPS"
       },
       "id": 3
     },
@@ -254,7 +309,7 @@
         "nombre": "Lorena",
         "apellido": "Muñoz",
         "genero": "No binario",
-        "eps": "Nueva"
+        "eps": "Nueva EPS"
       },
       "id": 8
     },
@@ -270,19 +325,19 @@
     },
     {
       "paciente": {
+        "identificacion": "1070",
         "nombre": "Pepe",
         "apellido": "Sanz",
-        "identificacion": "1070",
         "genero": "Masculino",
-        "eps": "Saludcoop"
+        "eps": "Cruz Blanca"
       },
       "id": 10
     },
     {
       "paciente": {
-        "nombre": "aa",
-        "apellido": "bb",
-        "identificacion": "22",
+        "identificacion": "1071",
+        "nombre": "Adriana",
+        "apellido": "Torres",
         "genero": "No binario",
         "eps": "Sanitas"
       },
@@ -290,13 +345,33 @@
     },
     {
       "paciente": {
-        "nombre": "bb",
-        "apellido": "uuu",
-        "identificacion": "777",
+        "nombre": "sss",
+        "apellido": "ggg",
+        "identificacion": "222",
         "genero": "No binario",
         "eps": "Emssanar"
       },
       "id": 12
+    },
+    {
+      "paciente": {
+        "nombre": "",
+        "apellido": "",
+        "identificacion": "",
+        "genero": "​",
+        "eps": "​"
+      },
+      "id": 13
+    },
+    {
+      "paciente": {
+        "nombre": "aa",
+        "apellido": "sss",
+        "identificacion": "333",
+        "genero": "Femenino",
+        "eps": "Emssanar"
+      },
+      "id": 14
     }
   ],
   "doctores": [
@@ -387,6 +462,30 @@
         "especialidad": "Odontopediatría"
       },
       "id": 12
+    },
+    {
+      "doctor": {
+        "nombre": "qq",
+        "apellido": "qq",
+        "especialidad": "Diseño Sonrisa"
+      },
+      "id": 13
+    },
+    {
+      "doctor": {
+        "nombre": "",
+        "apellido": "",
+        "especialidad": "​"
+      },
+      "id": 14
+    },
+    {
+      "doctor": {
+        "nombre": "ss",
+        "apellido": "ss",
+        "especialidad": "Ortodoncia"
+      },
+      "id": 15
     }
   ],
   "tratamientos": [
@@ -461,6 +560,22 @@
         "doctor": "Andrea Reyes"
       },
       "id": 9
+    },
+    {
+      "tratamiento": {
+        "nombre": "ee",
+        "consultorio": "101",
+        "doctor": "Jose Castillo"
+      },
+      "id": 10
+    },
+    {
+      "tratamiento": {
+        "nombre": "iii",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo"
+      },
+      "id": 12
     }
   ],
   "consultorios": [
@@ -533,6 +648,48 @@
         "nombre": "Periodoncia"
       },
       "id": 10
+    },
+    {
+      "consultorio": {
+        "nombre": "aa",
+        "numero": "11"
+      },
+      "id": 11
+    },
+    {
+      "consultorio": {
+        "nombre": "pp",
+        "numero": "99"
+      },
+      "id": 13
+    },
+    {
+      "consultorio": {
+        "nombre": "o",
+        "numero": "0"
+      },
+      "id": 19
+    },
+    {
+      "consultorio": {
+        "nombre": "f",
+        "numero": "4"
+      },
+      "id": 20
+    },
+    {
+      "consultorio": {
+        "numero": "",
+        "nombre": ""
+      },
+      "id": 21
+    },
+    {
+      "consultorio": {
+        "nombre": "y",
+        "numero": "8"
+      },
+      "id": 22
     }
   ],
   "epss": [
