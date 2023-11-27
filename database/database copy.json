@@ -6,18 +6,18 @@
         "fecha": "2022-03-12",
         "hora": "22:21",
         "consultorio": "101",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Higiene"
+        "doctor": "Rene Rosas",
+        "tratamiento": "Imagenología"
       },
       "id": 3
     },
     {
       "cita": {
-        "paciente": "Ana",
+        "paciente": "Ana Marin",
         "fecha": "2023-11-25",
         "hora": "14:39",
         "consultorio": "402",
-        "doctor": "Jenifer Sarria",
+        "doctor": "Lorenzo Lopez",
         "tratamiento": "Imagenología"
       },
       "id": 13
@@ -28,19 +28,19 @@
         "fecha": "2023-11-25",
         "hora": "15:02",
         "consultorio": "302",
-        "doctor": "Antonio Restrepo",
+        "doctor": "Andrea Reyes",
         "tratamiento": "Extracción"
       },
       "id": 19
     },
     {
       "cita": {
-        "paciente": "Jose Roman",
+        "paciente": "Larry Vasquez",
         "fecha": "2023-11-25",
         "hora": "15:26",
         "consultorio": "302",
-        "doctor": "Lorenzo Lopez",
-        "tratamiento": "Cirugía"
+        "doctor": "Jenifer Sarria",
+        "tratamiento": "Blanqueamiento"
       },
       "id": 24
     },
@@ -51,13 +51,13 @@
         "hora": "15:26",
         "consultorio": "201",
         "doctor": "Johana Dorado",
-        "tratamiento": "Higiene"
+        "tratamiento": "Imagenología"
       },
       "id": 26
     },
     {
       "cita": {
-        "paciente": "Natalia Londoño",
+        "paciente": "Luisa Vasquez",
         "fecha": "2023-11-25",
         "hora": "15:42",
         "consultorio": "301",
@@ -94,8 +94,8 @@
         "fecha": "2023-11-25",
         "hora": "15:49",
         "consultorio": "501",
-        "doctor": "Rene Rosas",
-        "tratamiento": "Cirugía"
+        "doctor": "Jenifer Sarria",
+        "tratamiento": "Ortodoncia"
       },
       "id": 37
     },
@@ -161,7 +161,7 @@
         "hora": "17:46",
         "consultorio": "101",
         "doctor": "Jorge Muñoz",
-        "tratamiento": "Odontopediatría"
+        "tratamiento": "Diseño"
       },
       "id": 44
     }
@@ -183,7 +183,7 @@
         "nombre": "Jose",
         "apellido": "Roman",
         "genero": "Masculino",
-        "eps": "Compensar"
+        "eps": "Cruz"
       },
       "id": 2
     },
@@ -274,6 +274,16 @@
         "eps": "Saludcoop"
       },
       "id": 10
+    },
+    {
+      "paciente": {
+        "identificacion": "1071",
+        "nombre": "Javier",
+        "apellido": "Castaño",
+        "genero": "Masculino",
+        "eps": "Cruz"
+      },
+      "id": 11
     }
   ],
   "doctores": [
@@ -321,7 +331,7 @@
       "doctor": {
         "nombre": "Antonio",
         "apellido": "Restrepo",
-        "especialidad": "Imagenología"
+        "especialidad": "Endodoncista"
       },
       "id": 6
     },
@@ -582,26 +592,6 @@
         "convenio": "PAB"
       },
       "id": 10
-    }
-  ],
-  "generos": [
-    {
-      "genero": {
-        "nombre": "Femenino"
-      },
-      "id": 1
-    },
-    {
-      "genero": {
-        "nombre": "Masculino"
-      },
-      "id": 2
-    },
-    {
-      "genero": {
-        "genero": "No binario"
-      },
-      "id": 3
     }
   ]
 }
