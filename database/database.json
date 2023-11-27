@@ -199,19 +199,11 @@
     },
     {
       "paciente": {
+        "identificacion": "1064",
         "nombre": "Luisa",
         "apellido": "Vasquez",
-        "identificacion": "1064",
-        "genero": "Femenino",
+        "genero": "No",
         "eps": "SaludTotal"
-      },
-      "paciente2": {
-        "Id": 2,
-        "Nombre": "",
-        "Apellido": "",
-        "Identificacion": "",
-        "Genero": "",
-        "Eps": ""
       },
       "id": 4
     },
@@ -227,10 +219,10 @@
     },
     {
       "paciente": {
+        "identificacion": "1066",
         "nombre": "Juan",
         "apellido": "Lleras",
-        "identificacion": "1066",
-        "genero": "Masculino",
+        "genero": "No",
         "eps": "Sanitas"
       },
       "id": 6
@@ -250,8 +242,8 @@
         "identificacion": "1068",
         "nombre": "Lorena",
         "apellido": "Muñoz",
-        "genero": "Femenino",
-        "eps": "Nueva Eps"
+        "genero": "No",
+        "eps": "Nueva"
       },
       "id": 8
     },
@@ -274,6 +266,26 @@
         "eps": "Saludcoop"
       },
       "id": 10
+    },
+    {
+      "paciente": {
+        "nombre": "aa",
+        "apellido": "bb",
+        "identificacion": "22",
+        "genero": "No binario",
+        "eps": "Sanitas"
+      },
+      "id": 11
+    },
+    {
+      "paciente": {
+        "nombre": "bb",
+        "apellido": "uuu",
+        "identificacion": "777",
+        "genero": "No binario",
+        "eps": "Emssanar"
+      },
+      "id": 12
     }
   ],
   "doctores": [
@@ -599,7 +611,7 @@
     },
     {
       "genero": {
-        "genero": "No binario"
+        "nombre": "No binario"
       },
       "id": 3
     }
