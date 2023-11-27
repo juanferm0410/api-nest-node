@@ -164,6 +164,17 @@
         "tratamiento": "Odontopediatría"
       },
       "id": 44
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-26",
+        "hora": "23:39",
+        "consultorio": "102",
+        "doctor": "Mateo",
+        "tratamiento": "Diseño"
+      },
+      "id": 45
     }
   ],
   "pacientes": [
@@ -381,7 +392,7 @@
   "tratamientos": [
     {
       "tratamiento": {
-        "nombre": "Diseño Sonrisa",
+        "nombre": "Diseño Sonrisa",
         "consultorio": "101",
         "doctor": "Antonio Restrepo"
       },
@@ -484,7 +495,7 @@
     {
       "consultorio": {
         "numero": 301,
-        "nombre": "Diseño Sonrisa"
+        "nombre": "Diseño Sonrisa"
       },
       "id": 5
     },
@@ -512,7 +523,7 @@
     {
       "consultorio": {
         "numero": "501",
-        "nombre": "Rayos X"
+        "nombre": "Rayos X"
       },
       "id": 9
     },
@@ -611,7 +622,7 @@
     },
     {
       "genero": {
-        "nombre": "No binario"
+        "nombre": "No binario"
       },
       "id": 3
     }
