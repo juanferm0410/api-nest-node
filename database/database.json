@@ -101,11 +101,11 @@
     },
     {
       "cita": {
-        "paciente": "Paola Muñoz",
+        "paciente": "Paola Muñoz",
         "fecha": "2023-11-25",
         "hora": "15:49",
         "consultorio": "501",
-        "doctor": "Dayana Serna",
+        "doctor": "Dayana Serna",
         "tratamiento": "Ortodoncia"
       },
       "id": 39
@@ -134,22 +134,22 @@
     },
     {
       "cita": {
-        "paciente": "Lorena Muñoz",
+        "paciente": "Lorena Muñoz",
         "fecha": "2023-11-25",
         "hora": "17:34",
         "consultorio": "101",
-        "doctor": "Jorge Muñoz",
+        "doctor": "Jorge Muñoz",
         "tratamiento": "Diseño"
       },
       "id": 42
     },
     {
       "cita": {
-        "paciente": "Natalia Londoño",
+        "paciente": "Natalia Londoño",
         "fecha": "2023-11-25",
         "hora": "17:45",
         "consultorio": "401",
-        "doctor": "Edwin Perez",
+        "doctor": "Edwin Perez",
         "tratamiento": "Diseño"
       },
       "id": 43
@@ -283,7 +283,7 @@
         "nombre": "aa",
         "apellido": "bb",
         "identificacion": "22",
-        "genero": "No binario",
+        "genero": "No binario",
         "eps": "Sanitas"
       },
       "id": 11
@@ -293,7 +293,7 @@
         "nombre": "bb",
         "apellido": "uuu",
         "identificacion": "777",
-        "genero": "No binario",
+        "genero": "No binario",
         "eps": "Emssanar"
       },
       "id": 12
@@ -368,7 +368,7 @@
       "doctor": {
         "nombre": "Lorenzo",
         "apellido": "Lopez",
-        "especialidad": "Diseño Sonrisa"
+        "especialidad": "Diseño Sonrisa"
       },
       "id": 9
     },
@@ -402,7 +402,7 @@
       "tratamiento": {
         "nombre": "Blanqueamiento",
         "consultorio": "102",
-        "doctor": "Jorge Muñoz"
+        "doctor": "Jorge Muñoz"
       },
       "id": 2
     },
@@ -410,7 +410,7 @@
       "tratamiento": {
         "nombre": "Ortodoncia",
         "consultorio": "201",
-        "doctor": "Mateo Garcia"
+        "doctor": "Mateo Garcia"
       },
       "id": 3
     },
@@ -418,7 +418,7 @@
       "tratamiento": {
         "nombre": "Prótesis",
         "consultorio": "202",
-        "doctor": "Edwin Perez"
+        "doctor": "Edwin Perez"
       },
       "id": 4
     },
@@ -426,7 +426,7 @@
       "tratamiento": {
         "nombre": "Higiene",
         "consultorio": "301",
-        "doctor": "Dayana Serna"
+        "doctor": "Dayana Serna"
       },
       "id": 5
     },
@@ -450,7 +450,7 @@
       "tratamiento": {
         "nombre": "Imagenología",
         "consultorio": "402",
-        "doctor": "Jenifer Sarria"
+        "doctor": "Jenifer Sarria"
       },
       "id": 8
     },
@@ -458,7 +458,7 @@
       "tratamiento": {
         "nombre": "Odontopediatría",
         "consultorio": "502",
-        "doctor": "Andrea Reyes"
+        "doctor": "Andrea Reyes"
       },
       "id": 9
     }
@@ -545,7 +545,7 @@
     },
     {
       "eps": {
-        "nombre": "Nueva EPS",
+        "nombre": "Nueva EPS",
         "convenio": "POS"
       },
       "id": 2
@@ -566,7 +566,7 @@
     },
     {
       "eps": {
-        "nombre": "Salud Total",
+        "nombre": "Salud Total",
         "convenio": "PAB"
       },
       "id": 5
@@ -587,7 +587,7 @@
     },
     {
       "eps": {
-        "nombre": "Cruz Blanca",
+        "nombre": "Cruz Blanca",
         "convenio": "POSS"
       },
       "id": 8
@@ -601,7 +601,7 @@
     },
     {
       "eps": {
-        "nombre": "Salud Vida",
+        "nombre": "Salud Vida",
         "convenio": "PAB"
       },
       "id": 10
