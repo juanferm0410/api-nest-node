@@ -2,23 +2,12 @@
   "citas": [
     {
       "cita": {
-        "paciente": "Juan Lleras",
-        "fecha": "2022-03-12",
-        "hora": "22:21",
-        "consultorio": "101",
-        "doctor": "Rene Rosas",
-        "tratamiento": "Imagenología"
-      },
-      "id": 3
-    },
-    {
-      "cita": {
-        "paciente": "Ana Marin",
+        "paciente": "Diana Rojas",
         "fecha": "2023-11-25",
         "hora": "14:39",
         "consultorio": "402",
-        "doctor": "Lorenzo Lopez",
-        "tratamiento": "Imagenología"
+        "doctor": "Jenifer Sarria",
+        "tratamiento": "Odontopediatría"
       },
       "id": 13
     },
@@ -28,36 +17,36 @@
         "fecha": "2023-11-25",
         "hora": "15:02",
         "consultorio": "302",
-        "doctor": "Andrea Reyes",
+        "doctor": "Johana Dorado",
         "tratamiento": "Extracción"
       },
       "id": 19
     },
     {
       "cita": {
-        "paciente": "Larry Vasquez",
+        "paciente": "Jose Roman",
         "fecha": "2023-11-25",
         "hora": "15:26",
         "consultorio": "302",
-        "doctor": "Jenifer Sarria",
-        "tratamiento": "Blanqueamiento"
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Cirugía"
       },
       "id": 24
     },
     {
       "cita": {
-        "paciente": "Larry Vasquez",
+        "paciente": "Pepe Sanz",
         "fecha": "2023-11-25",
         "hora": "15:26",
         "consultorio": "201",
-        "doctor": "Johana Dorado",
-        "tratamiento": "Imagenología"
+        "doctor": "Lorenzo Lopez",
+        "tratamiento": "Higiene"
       },
       "id": 26
     },
     {
       "cita": {
-        "paciente": "Luisa Vasquez",
+        "paciente": "Natalia Londoño",
         "fecha": "2023-11-25",
         "hora": "15:42",
         "consultorio": "301",
@@ -79,7 +68,7 @@
     },
     {
       "cita": {
-        "paciente": "Jose Roman",
+        "paciente": "Paola Muñoz",
         "fecha": "2023-11-25",
         "hora": "15:49",
         "consultorio": "501",
@@ -87,28 +76,6 @@
         "tratamiento": "Imagenología"
       },
       "id": 36
-    },
-    {
-      "cita": {
-        "paciente": "Larry Vasquez",
-        "fecha": "2023-11-25",
-        "hora": "15:49",
-        "consultorio": "501",
-        "doctor": "Jenifer Sarria",
-        "tratamiento": "Ortodoncia"
-      },
-      "id": 37
-    },
-    {
-      "cita": {
-        "paciente": "Paola Muñoz",
-        "fecha": "2023-11-25",
-        "hora": "15:49",
-        "consultorio": "501",
-        "doctor": "Dayana Serna",
-        "tratamiento": "Ortodoncia"
-      },
-      "id": 39
     },
     {
       "cita": {
@@ -127,30 +94,30 @@
         "fecha": "2023-11-25",
         "hora": "15:49",
         "consultorio": "501",
-        "doctor": "Jenifer Sarria",
+        "doctor": "Jorge Muñoz",
         "tratamiento": "Extracción"
       },
       "id": 41
     },
     {
       "cita": {
-        "paciente": "Lorena Muñoz",
+        "paciente": "Lorena Muñoz",
         "fecha": "2023-11-25",
         "hora": "17:34",
         "consultorio": "101",
-        "doctor": "Jorge Muñoz",
-        "tratamiento": "Diseño"
+        "doctor": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
       },
       "id": 42
     },
     {
       "cita": {
-        "paciente": "Natalia Londoño",
+        "paciente": "Natalia Londoño",
         "fecha": "2023-11-25",
         "hora": "17:45",
         "consultorio": "401",
-        "doctor": "Edwin Perez",
-        "tratamiento": "Diseño"
+        "doctor": "Edwin Perez",
+        "tratamiento": "Diseño Sonrisa"
       },
       "id": 43
     },
@@ -161,9 +128,339 @@
         "hora": "17:46",
         "consultorio": "101",
         "doctor": "Jorge Muñoz",
-        "tratamiento": "Diseño"
+        "tratamiento": "Odontopediatría"
       },
       "id": 44
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "",
+        "hora": "",
+        "consultorio": "502",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 49
+    },
+    {
+      "cita": {
+        "paciente": "Larry Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:17",
+        "consultorio": "101",
+        "doctor": "Jorge Muñoz",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 52
+    },
+    {
+      "cita": {
+        "paciente": "Diana Rojas",
+        "fecha": "2023-11-27",
+        "hora": "14:26",
+        "consultorio": "101",
+        "doctor": "Jorge Muñoz",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 53
+    },
+    {
+      "cita": {
+        "paciente": "Larry Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:27",
+        "consultorio": "401",
+        "doctor": "Edwin Perez",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 54
+    },
+    {
+      "cita": {
+        "paciente": "Ana Marin",
+        "fecha": "2023-11-27",
+        "hora": "14:27",
+        "consultorio": "502",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Odontopediatría"
+      },
+      "id": 55
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:27",
+        "consultorio": "502",
+        "doctor": "Lorenzo Lopez",
+        "tratamiento": "Odontopediatría"
+      },
+      "id": 56
+    },
+    {
+      "cita": {
+        "paciente": "Natalia Londoño",
+        "fecha": "2023-11-27",
+        "hora": "14:29",
+        "consultorio": "302",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 58
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "14:29",
+        "consultorio": "302",
+        "doctor": "Erika",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 59
+    },
+    {
+      "cita": {
+        "paciente": "Natalia Londoño",
+        "fecha": "2023-11-27",
+        "hora": "14:29",
+        "consultorio": "302",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 60
+    },
+    {
+      "cita": {
+        "paciente": "Adriana Torres",
+        "fecha": "2023-11-27",
+        "hora": "14:30",
+        "consultorio": "402",
+        "doctor": "Jenifer Sarria",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 61
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "14:34",
+        "consultorio": "401",
+        "doctor": "Mateo García",
+        "tratamiento": "Cirugía"
+      },
+      "id": 62
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:35",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 63
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:35",
+        "consultorio": "501",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 64
+    },
+    {
+      "cita": {
+        "paciente": "Pepe Sanz",
+        "fecha": "2023-11-27",
+        "hora": "14:39",
+        "consultorio": "502",
+        "doctor": "Rene Rosas",
+        "tratamiento": "Extracción"
+      },
+      "id": 65
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:40",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 66
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "14:42",
+        "consultorio": "201",
+        "doctor": "Jose Castillo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 67
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "14:43",
+        "consultorio": "401",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 68
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:44",
+        "consultorio": "401",
+        "doctor": "Edwin Perez",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 69
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:47",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 70
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:40",
+        "consultorio": "402",
+        "doctor": "Erika Serna",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 71
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:54",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 81
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "19:56",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 82
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:59",
+        "consultorio": "401",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 83
+    },
+    {
+      "cita": {
+        "paciente": "Adriana Torres",
+        "fecha": "2023-11-27",
+        "hora": "20:07",
+        "consultorio": "101",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Odontopediatría"
+      },
+      "id": 85
+    },
+    {
+      "cita": {
+        "paciente": "Pepe Sanz",
+        "fecha": "2023-11-27",
+        "hora": "20:09",
+        "consultorio": "502",
+        "doctor": "Rene Rosas",
+        "tratamiento": "Cirugía"
+      },
+      "id": 86
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "20:30",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 87
+    },
+    {
+      "cita": {
+        "paciente": "Natalia Londoño",
+        "fecha": "2023-11-27",
+        "hora": "21:05",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 89
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "21:05",
+        "consultorio": "502",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 90
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "21:11",
+        "consultorio": "401",
+        "doctor": "Erika Serna",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 92
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "21:13",
+        "consultorio": "501",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 93
     }
   ],
   "pacientes": [
@@ -183,7 +480,7 @@
         "nombre": "Jose",
         "apellido": "Roman",
         "genero": "Masculino",
-        "eps": "Cruz"
+        "eps": "Compensar"
       },
       "id": 2
     },
@@ -193,25 +490,17 @@
         "nombre": "Paola",
         "apellido": "Muñoz",
         "genero": "Femenino",
-        "eps": "Nueva"
+        "eps": "Nueva EPS"
       },
       "id": 3
     },
     {
       "paciente": {
+        "identificacion": "1064",
         "nombre": "Luisa",
         "apellido": "Vasquez",
-        "identificacion": "1064",
-        "genero": "Femenino",
+        "genero": "No binario",
         "eps": "SaludTotal"
-      },
-      "paciente2": {
-        "Id": 2,
-        "Nombre": "",
-        "Apellido": "",
-        "Identificacion": "",
-        "Genero": "",
-        "Eps": ""
       },
       "id": 4
     },
@@ -227,10 +516,10 @@
     },
     {
       "paciente": {
+        "identificacion": "1066",
         "nombre": "Juan",
         "apellido": "Lleras",
-        "identificacion": "1066",
-        "genero": "Masculino",
+        "genero": "No binario",
         "eps": "Sanitas"
       },
       "id": 6
@@ -250,8 +539,8 @@
         "identificacion": "1068",
         "nombre": "Lorena",
         "apellido": "Muñoz",
-        "genero": "Femenino",
-        "eps": "Nueva Eps"
+        "genero": "No binario",
+        "eps": "Nueva EPS"
       },
       "id": 8
     },
@@ -267,21 +556,21 @@
     },
     {
       "paciente": {
+        "identificacion": "1070",
         "nombre": "Pepe",
         "apellido": "Sanz",
-        "identificacion": "1070",
         "genero": "Masculino",
-        "eps": "Saludcoop"
+        "eps": "Cruz Blanca"
       },
       "id": 10
     },
     {
       "paciente": {
         "identificacion": "1071",
-        "nombre": "Javier",
-        "apellido": "Castaño",
-        "genero": "Masculino",
-        "eps": "Cruz"
+        "nombre": "Adriana",
+        "apellido": "Torres",
+        "genero": "No binario",
+        "eps": "Sanitas"
       },
       "id": 11
     }
@@ -331,7 +620,7 @@
       "doctor": {
         "nombre": "Antonio",
         "apellido": "Restrepo",
-        "especialidad": "Endodoncista"
+        "especialidad": "Imagenología"
       },
       "id": 6
     },
@@ -355,7 +644,7 @@
       "doctor": {
         "nombre": "Lorenzo",
         "apellido": "Lopez",
-        "especialidad": "Diseño Sonrisa"
+        "especialidad": "Diseño Sonrisa"
       },
       "id": 9
     },
@@ -379,7 +668,7 @@
   "tratamientos": [
     {
       "tratamiento": {
-        "nombre": "Diseño Sonrisa",
+        "nombre": "Diseño Sonrisa",
         "consultorio": "101",
         "doctor": "Antonio Restrepo"
       },
@@ -389,7 +678,7 @@
       "tratamiento": {
         "nombre": "Blanqueamiento",
         "consultorio": "102",
-        "doctor": "Jorge Muñoz"
+        "doctor": "Jorge Muñoz"
       },
       "id": 2
     },
@@ -397,25 +686,9 @@
       "tratamiento": {
         "nombre": "Ortodoncia",
         "consultorio": "201",
-        "doctor": "Mateo Garcia"
+        "doctor": "Mateo Garcia"
       },
       "id": 3
-    },
-    {
-      "tratamiento": {
-        "nombre": "Prótesis",
-        "consultorio": "202",
-        "doctor": "Edwin Perez"
-      },
-      "id": 4
-    },
-    {
-      "tratamiento": {
-        "nombre": "Higiene",
-        "consultorio": "301",
-        "doctor": "Dayana Serna"
-      },
-      "id": 5
     },
     {
       "tratamiento": {
@@ -437,7 +710,7 @@
       "tratamiento": {
         "nombre": "Imagenología",
         "consultorio": "402",
-        "doctor": "Jenifer Sarria"
+        "doctor": "Jenifer Sarria"
       },
       "id": 8
     },
@@ -445,7 +718,7 @@
       "tratamiento": {
         "nombre": "Odontopediatría",
         "consultorio": "502",
-        "doctor": "Andrea Reyes"
+        "doctor": "Andrea Reyes"
       },
       "id": 9
     }
@@ -482,7 +755,7 @@
     {
       "consultorio": {
         "numero": 301,
-        "nombre": "Diseño Sonrisa"
+        "nombre": "Diseño Sonrisa"
       },
       "id": 5
     },
@@ -510,7 +783,7 @@
     {
       "consultorio": {
         "numero": "501",
-        "nombre": "Rayos X"
+        "nombre": "Rayos X"
       },
       "id": 9
     },
@@ -532,7 +805,7 @@
     },
     {
       "eps": {
-        "nombre": "Nueva EPS",
+        "nombre": "Nueva EPS",
         "convenio": "POS"
       },
       "id": 2
@@ -553,7 +826,7 @@
     },
     {
       "eps": {
-        "nombre": "Salud Total",
+        "nombre": "Salud Total",
         "convenio": "PAB"
       },
       "id": 5
@@ -574,7 +847,7 @@
     },
     {
       "eps": {
-        "nombre": "Cruz Blanca",
+        "nombre": "Cruz Blanca",
         "convenio": "POSS"
       },
       "id": 8
@@ -588,10 +861,30 @@
     },
     {
       "eps": {
-        "nombre": "Salud Vida",
+        "nombre": "Salud Vida",
         "convenio": "PAB"
       },
       "id": 10
+    }
+  ],
+  "generos": [
+    {
+      "genero": {
+        "nombre": "Femenino"
+      },
+      "id": 1
+    },
+    {
+      "genero": {
+        "nombre": "Masculino"
+      },
+      "id": 2
+    },
+    {
+      "genero": {
+        "nombre": "No binario"
+      },
+      "id": 3
     }
   ]
 }
