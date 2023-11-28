@@ -1,6 +1,6 @@
 // DEV
-const ip = 'localhost';
-const puerto = '3000';
+// const ip = 'localhost';
+// const puerto = '3000';
 // const urlApiTratamientos = 'http://'+ip+':'+puerto+'/tratamientos';
 // const urlApiDoctores = 'http://'+ip+':'+puerto+'/doctores';
 // const urlApiCitas = 'http://'+ip+':'+puerto+'/citas';
