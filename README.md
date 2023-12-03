@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
 
-* Demo: [Agenda Consultorio Odontológico Backend](https://jorgelmunozp.github.io/consultorio-odontologico-backend-node/)
-* Demo: [Agenda Consultorio Odontológico FrontEnd](https://jorgelmunozp.github.io/consultorio-odontologico-frontend-react/)
+* Demo: [La Inmobiliaria Backend](https://jorgelmunozp.github.io/consultorio-odontologico-backend-node/)
+* Demo: [La Inmobiliaria FrontEnd](https://jorgelmunozp.github.io/consultorio-odontologico-frontend-react/)
 
 ***
 
