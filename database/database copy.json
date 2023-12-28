@@ -9,7 +9,7 @@
         "doctor": "Jenifer Sarria",
         "tratamiento": "Odontopediatría"
       },
-      "id": 13
+      "id": 1
     },
     {
       "cita": {
@@ -20,7 +20,7 @@
         "doctor": "Johana Dorado",
         "tratamiento": "Extracción"
       },
-      "id": 19
+      "id": 2
     },
     {
       "cita": {
@@ -31,7 +31,7 @@
         "doctor": "Antonio Restrepo",
         "tratamiento": "Cirugía"
       },
-      "id": 24
+      "id": 10
     },
     {
       "cita": {
