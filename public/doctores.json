@@ -1,90 +1,112 @@
 [
-      {
-        "doctor": {
-          "nombre": "Jorge",
-          "apellido": "Muñoz",
-          "especialidad": "Odontólogo"
-        },
-        "id": 1
-      },
-      {
-        "doctor": {
-          "nombre": "Jose",
-          "apellido": "Castillo",
-          "especialidad": "Ortodoncista"
-        },
-        "id": 2
-      },
-      {
-        "doctor": {
-          "nombre": "Mateo",
-          "apellido": "García",
-          "especialidad": "Imagenología"
-        },
-        "id": 3
-      },
-      {
-        "doctor": {
-          "nombre": "Edwin",
-          "apellido": "Perez",
-          "especialidad": "Odontólogo"
-        },
-        "id": 4
-      },
-      {
-        "doctor": {
-          "nombre": "Erika",
-          "apellido": "Serna",
-          "especialidad": "Periodoncista"
-        },
-        "id": 5
-      },
-      {
-        "doctor": {
-          "nombre": "Antonio",
-          "apellido": "Restrepo",
-          "especialidad": "Imagenología"
-        },
-        "id": 6
-      },
-      {
-        "doctor": {
-          "nombre": "Andrea",
-          "apellido": "Reyes",
-          "especialidad": "Odontopediatra"
-        },
-        "id": 7
-      },
-      {
-        "doctor": {
-          "nombre": "Jenifer",
-          "apellido": "Sarria",
-          "especialidad": "Extracción"
-        },
-        "id": 8
-      },
-      {
-        "doctor": {
-          "nombre": "Lorenzo",
-          "apellido": "Lopez",
-          "especialidad": "Diseño Sonrisa"
-        },
-        "id": 9
-      },
-      {
-        "doctor": {
-          "nombre": "Johana",
-          "apellido": "Dorado",
-          "especialidad": "Prótesis"
-        },
-        "id": 10
-      },
-      {
-        "doctor": {
-          "nombre": "Rene",
-          "apellido": "Rosas",
-          "especialidad": "Odontopediatría"
-        },
-        "id": 12
-      }
+  {
+    "doctor": {
+      "identificacion": "1080",
+      "nombre": "Jorge",
+      "apellido": "Muñoz",
+      "genero": "Masculino",
+      "especialidad": "Odontopediatría"
+    },
+    "id": 1
+  },
+  {
+    "doctor": {
+      "identificacion": "1081",
+      "nombre": "Jose",
+      "apellido": "Castillo",
+      "genero": "Masculino",
+      "especialidad": "Ortodoncista"
+    },
+    "id": 2
+  },
+  {
+    "doctor": {
+      "identificacion": "1082",
+      "nombre": "Mateo",
+      "apellido": "García",
+      "genero": "Masculino",
+      "especialidad": "Imagenología"
+    },
+    "id": 3
+  },
+  {
+    "doctor": {
+      "identificacion": "1083",
+      "nombre": "Edwin",
+      "apellido": "Perez",
+      "genero": "Masculino",
+      "especialidad": "Odontólogo"
+    },
+    "id": 4
+  },
+  {
+    "doctor": {
+      "identificacion": "1084",
+      "nombre": "Erika",
+      "apellido": "Serna",
+      "genero": "Femenino",
+      "especialidad": "Periodoncista"
+    },
+    "id": 5
+  },
+  {
+    "doctor": {
+      "identificacion": "1085",
+      "nombre": "Antonio",
+      "apellido": "Restrepo",
+      "genero": "Masculino",
+      "especialidad": "Imagenología"
+    },
+    "id": 6
+  },
+  {
+    "doctor": {
+      "identificacion": "1086",
+      "nombre": "Andrea",
+      "apellido": "Reyes",
+      "genero": "Femenino",
+      "especialidad": "Odontopediatra"
+    },
+    "id": 7
+  },
+  {
+    "doctor": {
+      "identificacion": "1087",
+      "nombre": "Jenifer",
+      "apellido": "Sarria",
+      "genero": "Femenino",
+      "especialidad": "Extracción"
+    },
+    "id": 8
+  },
+  {
+    "doctor": {
+      "identificacion": "1088",
+      "nombre": "Lorenzo",
+      "apellido": "Lopez",
+      "genero": "Masculino",
+      "especialidad": "Diseño Sonrisa"
+    },
+    "id": 9
+  },
+  {
+    "doctor": {
+      "identificacion": "1089",
+      "nombre": "Johana",
+      "apellido": "Dorado",
+      "genero": "Femenino",
+      "especialidad": "Prótesis"
+    },
+    "id": 10
+  },
+  {
+    "doctor": {
+      "identificacion": "1090",
+      "nombre": "Rene",
+      "apellido": "Rosas",
+      "genero": "Masculino",
+      "especialidad": "Odontopediatría"
+    },
+    "id": 12
+  }
 ]

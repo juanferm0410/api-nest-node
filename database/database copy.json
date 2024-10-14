@@ -6,7 +6,7 @@
         "fecha": "2023-11-25",
         "hora": "14:39",
         "consultorio": "402",
-        "doctor": "Jenifer Sarria",
+        "doctor": "Lorenzo Lopez",
         "tratamiento": "Odontopediatría"
       },
       "id": 1
@@ -578,88 +578,110 @@
   "doctores": [
     {
       "doctor": {
+        "identificacion": "1080",
         "nombre": "Jorge",
         "apellido": "Muñoz",
-        "especialidad": "Odontólogo"
+        "genero": "Masculino",
+        "especialidad": "Odontopediatría"
       },
       "id": 1
     },
     {
       "doctor": {
+        "identificacion": "1081",
         "nombre": "Jose",
         "apellido": "Castillo",
+        "genero": "Masculino",
         "especialidad": "Ortodoncista"
       },
       "id": 2
     },
     {
       "doctor": {
+        "identificacion": "1082",
         "nombre": "Mateo",
         "apellido": "García",
+        "genero": "Masculino",
         "especialidad": "Imagenología"
       },
       "id": 3
     },
     {
       "doctor": {
+        "identificacion": "1083",
         "nombre": "Edwin",
         "apellido": "Perez",
+        "genero": "Masculino",
         "especialidad": "Odontólogo"
       },
       "id": 4
     },
     {
       "doctor": {
+        "identificacion": "1084",
         "nombre": "Erika",
         "apellido": "Serna",
+        "genero": "Femenino",
         "especialidad": "Periodoncista"
       },
       "id": 5
     },
     {
       "doctor": {
+        "identificacion": "1085",
         "nombre": "Antonio",
         "apellido": "Restrepo",
+        "genero": "Masculino",
         "especialidad": "Imagenología"
       },
       "id": 6
     },
     {
       "doctor": {
+        "identificacion": "1086",
         "nombre": "Andrea",
         "apellido": "Reyes",
+        "genero": "Femenino",
         "especialidad": "Odontopediatra"
       },
       "id": 7
     },
     {
       "doctor": {
+        "identificacion": "1087",
         "nombre": "Jenifer",
         "apellido": "Sarria",
+        "genero": "Femenino",
         "especialidad": "Extracción"
       },
       "id": 8
     },
     {
       "doctor": {
+        "identificacion": "1088",
         "nombre": "Lorenzo",
         "apellido": "Lopez",
+        "genero": "Masculino",
         "especialidad": "Diseño Sonrisa"
       },
       "id": 9
     },
     {
       "doctor": {
+        "identificacion": "1089",
         "nombre": "Johana",
         "apellido": "Dorado",
+        "genero": "Femenino",
         "especialidad": "Prótesis"
       },
       "id": 10
     },
     {
       "doctor": {
+        "identificacion": "1090",
         "nombre": "Rene",
         "apellido": "Rosas",
+        "genero": "Masculino",
         "especialidad": "Odontopediatría"
       },
       "id": 12
@@ -670,7 +692,7 @@
       "tratamiento": {
         "nombre": "Diseño Sonrisa",
         "consultorio": "101",
-        "doctor": "Antonio Restrepo"
+        "doctor": "Johana Dorado"
       },
       "id": 1
     },
@@ -726,7 +748,7 @@
   "consultorios": [
     {
       "consultorio": {
-        "numero": 101,
+        "numero": "101",
         "nombre": "Blanqueamiento"
       },
       "id": 1

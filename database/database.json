@@ -6,7 +6,7 @@
         "fecha": "2023-11-25",
         "hora": "14:39",
         "consultorio": "402",
-        "doctor": "Jenifer Sarria",
+        "doctor": "Lorenzo Lopez",
         "tratamiento": "Odontopediatría"
       },
       "id": 1
@@ -135,8 +135,8 @@
     {
       "cita": {
         "paciente": "Luisa Vasquez",
-        "fecha": "2023-11-27",
-        "hora": "14:17",
+        "fecha": "",
+        "hora": "",
         "consultorio": "502",
         "doctor": "Andrea Reyes",
         "tratamiento": "Diseño Sonrisa"
@@ -219,6 +219,248 @@
         "tratamiento": "Blanqueamiento"
       },
       "id": 59
+    },
+    {
+      "cita": {
+        "paciente": "Natalia Londoño",
+        "fecha": "2023-11-27",
+        "hora": "14:29",
+        "consultorio": "302",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 60
+    },
+    {
+      "cita": {
+        "paciente": "Adriana Torres",
+        "fecha": "2023-11-27",
+        "hora": "14:30",
+        "consultorio": "402",
+        "doctor": "Jenifer Sarria",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 61
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "14:34",
+        "consultorio": "401",
+        "doctor": "Mateo García",
+        "tratamiento": "Cirugía"
+      },
+      "id": 62
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:35",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 63
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:35",
+        "consultorio": "501",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 64
+    },
+    {
+      "cita": {
+        "paciente": "Pepe Sanz",
+        "fecha": "2023-11-27",
+        "hora": "14:39",
+        "consultorio": "502",
+        "doctor": "Rene Rosas",
+        "tratamiento": "Extracción"
+      },
+      "id": 65
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:40",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 66
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "14:42",
+        "consultorio": "201",
+        "doctor": "Jose Castillo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 67
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "14:43",
+        "consultorio": "401",
+        "doctor": "Erika Serna",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 68
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "14:44",
+        "consultorio": "401",
+        "doctor": "Edwin Perez",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 69
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "14:47",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 70
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:40",
+        "consultorio": "402",
+        "doctor": "Erika Serna",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 71
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:54",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 81
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "19:56",
+        "consultorio": "402",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 82
+    },
+    {
+      "cita": {
+        "paciente": "Jose Roman",
+        "fecha": "2023-11-27",
+        "hora": "19:59",
+        "consultorio": "401",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 83
+    },
+    {
+      "cita": {
+        "paciente": "Adriana Torres",
+        "fecha": "2023-11-27",
+        "hora": "20:07",
+        "consultorio": "101",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Odontopediatría"
+      },
+      "id": 85
+    },
+    {
+      "cita": {
+        "paciente": "Pepe Sanz",
+        "fecha": "2023-11-27",
+        "hora": "20:09",
+        "consultorio": "502",
+        "doctor": "Rene Rosas",
+        "tratamiento": "Cirugía"
+      },
+      "id": 86
+    },
+    {
+      "cita": {
+        "paciente": "Luisa Vasquez",
+        "fecha": "2023-11-27",
+        "hora": "20:30",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 87
+    },
+    {
+      "cita": {
+        "paciente": "Natalia Londoño",
+        "fecha": "2023-11-27",
+        "hora": "21:05",
+        "consultorio": "402",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 89
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "21:05",
+        "consultorio": "502",
+        "doctor": "Antonio Restrepo",
+        "tratamiento": "Ortodoncia"
+      },
+      "id": 90
+    },
+    {
+      "cita": {
+        "paciente": "Juan Lleras",
+        "fecha": "2023-11-27",
+        "hora": "21:11",
+        "consultorio": "401",
+        "doctor": "Erika Serna",
+        "tratamiento": "Diseño Sonrisa"
+      },
+      "id": 92
+    },
+    {
+      "cita": {
+        "paciente": "Paola Muñoz",
+        "fecha": "2023-11-27",
+        "hora": "21:13",
+        "consultorio": "501",
+        "doctor": "Andrea Reyes",
+        "tratamiento": "Blanqueamiento"
+      },
+      "id": 93
     }
   ],
   "pacientes": [
@@ -336,88 +578,110 @@
   "doctores": [
     {
       "doctor": {
+        "identificacion": "1080",
         "nombre": "Jorge",
         "apellido": "Muñoz",
-        "especialidad": "Odontólogo"
+        "genero": "Masculino",
+        "especialidad": "Odontopediatría"
       },
       "id": 1
     },
     {
       "doctor": {
+        "identificacion": "1081",
         "nombre": "Jose",
         "apellido": "Castillo",
+        "genero": "Masculino",
         "especialidad": "Ortodoncista"
       },
       "id": 2
     },
     {
       "doctor": {
+        "identificacion": "1082",
         "nombre": "Mateo",
         "apellido": "García",
+        "genero": "Masculino",
         "especialidad": "Imagenología"
       },
       "id": 3
     },
     {
       "doctor": {
+        "identificacion": "1083",
         "nombre": "Edwin",
         "apellido": "Perez",
+        "genero": "Masculino",
         "especialidad": "Odontólogo"
       },
       "id": 4
     },
     {
       "doctor": {
+        "identificacion": "1084",
         "nombre": "Erika",
         "apellido": "Serna",
+        "genero": "Femenino",
         "especialidad": "Periodoncista"
       },
       "id": 5
     },
     {
       "doctor": {
+        "identificacion": "1085",
         "nombre": "Antonio",
         "apellido": "Restrepo",
+        "genero": "Masculino",
         "especialidad": "Imagenología"
       },
       "id": 6
     },
     {
       "doctor": {
+        "identificacion": "1086",
         "nombre": "Andrea",
         "apellido": "Reyes",
+        "genero": "Femenino",
         "especialidad": "Odontopediatra"
       },
       "id": 7
     },
     {
       "doctor": {
+        "identificacion": "1087",
         "nombre": "Jenifer",
         "apellido": "Sarria",
+        "genero": "Femenino",
         "especialidad": "Extracción"
       },
       "id": 8
     },
     {
       "doctor": {
+        "identificacion": "1088",
         "nombre": "Lorenzo",
         "apellido": "Lopez",
+        "genero": "Masculino",
         "especialidad": "Diseño Sonrisa"
       },
       "id": 9
     },
     {
       "doctor": {
+        "identificacion": "1089",
         "nombre": "Johana",
         "apellido": "Dorado",
+        "genero": "Femenino",
         "especialidad": "Prótesis"
       },
       "id": 10
     },
     {
       "doctor": {
+        "identificacion": "1090",
         "nombre": "Rene",
         "apellido": "Rosas",
+        "genero": "Masculino",
         "especialidad": "Odontopediatría"
       },
       "id": 12
@@ -428,7 +692,7 @@
       "tratamiento": {
         "nombre": "Diseño Sonrisa",
         "consultorio": "101",
-        "doctor": "Antonio Restrepo"
+        "doctor": "Johana Dorado"
       },
       "id": 1
     },
@@ -484,7 +748,7 @@
   "consultorios": [
     {
       "consultorio": {
-        "numero": 101,
+        "numero": "101",
         "nombre": "Blanqueamiento"
       },
       "id": 1
