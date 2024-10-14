@@ -7,7 +7,7 @@
     "start": "json-server --watch database/database.json",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "npm test"
+    "build": "npm run build"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
