@@ -1,42 +1,42 @@
 [
       {
         "consultorio": {
-          "numero": 101,
+          "numero": "101",
           "nombre": "Blanqueamiento"
         },
         "id": 1
       },
       {
         "consultorio": {
-          "numero": 102,
+          "numero": "102",
           "nombre": "Higiene"
         },
         "id": 2
       },
       {
         "consultorio": {
-          "numero": 201,
+          "numero": "201",
           "nombre": "Prótesis"
         },
         "id": 3
       },
       {
         "consultorio": {
-          "numero": 202,
+          "numero": "202",
           "nombre": "Ortodoncia"
         },
         "id": 4
       },
       {
         "consultorio": {
-          "numero": 301,
+          "numero": "301",
           "nombre": "Diseño Sonrisa"
         },
         "id": 5
       },
       {
         "consultorio": {
-          "numero": 302,
+          "numero": "302",
           "nombre": "Endodoncia"
         },
         "id": 6
