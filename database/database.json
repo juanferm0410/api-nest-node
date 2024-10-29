@@ -1173,7 +1173,7 @@
         "apellido": "Muñoz",
         "identificacion": "1080",
         "genero": "Masculino",
-        "especialidad": "Diseño Sonrisa"
+        "especialidad": "Imagenología"
       },
       "id": 1
     },
@@ -1291,7 +1291,7 @@
   "tratamientos": [
     {
       "tratamiento": {
-        "nombre": "Diseño Sonrisa",
+        "especialidad": "Diseño Sonrisa",
         "consultorio": {
           "numero": "301",
           "nombre": "Diseño Sonrisa"
@@ -1308,7 +1308,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Blanqueamiento",
+        "especialidad": "Blanqueamiento",
         "consultorio": {
           "numero": "102",
           "nombre": "Higiene"
@@ -1325,7 +1325,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Ortodoncia",
+        "especialidad": "Ortodoncia",
         "consultorio": {
           "numero": "201",
           "nombre": "Prótesis"
@@ -1339,7 +1339,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Cirugía",
+        "especialidad": "Cirugía",
         "consultorio": {
           "numero": "602",
           "nombre": "Cirugía"
@@ -1353,7 +1353,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Extracción",
+        "especialidad": "Extracción",
         "consultorio": {
           "numero": "401",
           "nombre": "Detartraje"
@@ -1367,7 +1367,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Imagenología",
+        "especialidad": "Imagenología",
         "consultorio": {
           "numero": "402",
           "nombre": "Laboratorio"
@@ -1381,7 +1381,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Odontopediatría",
+        "especialidad": "Odontopediatría",
         "consultorio": {
           "numero": "502",
           "nombre": "Periodoncia"
@@ -1395,7 +1395,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Endodoncia",
+        "especialidad": "Endodoncia",
         "consultorio": {
           "numero": "302",
           "nombre": "Endodoncia"
@@ -1409,7 +1409,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Detartrajes",
+        "especialidad": "Detartrajes",
         "consultorio": {
           "numero": "401",
           "nombre": "Detartraje"
@@ -1423,7 +1423,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Higiene Oral",
+        "especialidad": "Higiene Oral",
         "consultorio": {
           "numero": "702",
           "nombre": "Gerencia"
@@ -1437,7 +1437,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "Limpieza",
+        "especialidad": "Limpieza",
         "consultorio": {
           "numero": "301",
           "nombre": "Diseño"
@@ -1451,7 +1451,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "testTratamiento",
+        "especialidad": "testTratamiento",
         "consultorio": {
           "numero": "702",
           "nombre": "Gerencia"
@@ -1465,7 +1465,7 @@
     },
     {
       "tratamiento": {
-        "nombre": "zzz",
+        "especialidad": "zzz",
         "consultorio": {
           "numero": "502",
           "nombre": "Periodoncia"

@@ -1,19 +1,19 @@
 [
   {
     "doctor": {
-      "identificacion": "1080",
       "nombre": "Jorge",
       "apellido": "Muñoz",
+      "identificacion": "1080",
       "genero": "Masculino",
-      "especialidad": "Odontopediatría"
+      "especialidad": "Imagenología"
     },
     "id": 1
   },
   {
     "doctor": {
-      "identificacion": "1081",
       "nombre": "Jose",
       "apellido": "Castillo",
+      "identificacion": "1081",
       "genero": "Masculino",
       "especialidad": "Ortodoncista"
     },
@@ -21,9 +21,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1082",
       "nombre": "Mateo",
       "apellido": "García",
+      "identificacion": "1082",
       "genero": "Masculino",
       "especialidad": "Imagenología"
     },
@@ -31,9 +31,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1083",
       "nombre": "Edwin",
       "apellido": "Perez",
+      "identificacion": "1083",
       "genero": "Masculino",
       "especialidad": "Odontólogo"
     },
@@ -41,9 +41,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1084",
       "nombre": "Erika",
       "apellido": "Serna",
+      "identificacion": "1084",
       "genero": "Femenino",
       "especialidad": "Periodoncista"
     },
@@ -51,9 +51,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1085",
       "nombre": "Antonio",
       "apellido": "Restrepo",
+      "identificacion": "1085",
       "genero": "Masculino",
       "especialidad": "Imagenología"
     },
@@ -61,9 +61,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1086",
       "nombre": "Andrea",
       "apellido": "Reyes",
+      "identificacion": "1086",
       "genero": "Femenino",
       "especialidad": "Odontopediatra"
     },
@@ -71,9 +71,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1087",
       "nombre": "Jenifer",
       "apellido": "Sarria",
+      "identificacion": "1087",
       "genero": "Femenino",
       "especialidad": "Extracción"
     },
@@ -81,19 +81,19 @@
   },
   {
     "doctor": {
-      "identificacion": "1088",
       "nombre": "Lorenzo",
       "apellido": "Lopez",
+      "identificacion": "1088",
       "genero": "Masculino",
-      "especialidad": "Diseño Sonrisa"
+      "especialidad": "Diseño Sonrisa"
     },
     "id": 9
   },
   {
     "doctor": {
-      "identificacion": "1089",
       "nombre": "Johana",
       "apellido": "Dorado",
+      "identificacion": "1089",
       "genero": "Femenino",
       "especialidad": "Prótesis"
     },
@@ -101,9 +101,9 @@
   },
   {
     "doctor": {
-      "identificacion": "1090",
       "nombre": "Rene",
       "apellido": "Rosas",
+      "identificacion": "1090",
       "genero": "Masculino",
       "especialidad": "Odontopediatría"
     },
