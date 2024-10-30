@@ -42,7 +42,7 @@ const formatterMiles = new Intl.NumberFormat('es-CO', {   //Formato miles para c
   minimumFractionDigits: 0
 });
 
-fetch(urlApiCitas)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+fetch(urlApiCitas)                 //API REST para la simulación de la tabla citas de la base de datos
   .then(response => response.json())
   .then(citas => {
     let contenidoCitas = document.getElementById('contenidoCitas');
@@ -87,7 +87,7 @@ fetch(urlApiCitas)                 //API REST para la simulación de la tabla tr
       contenidoCitas.innerHTML = headerCitas + bodyCitas.join('') + footerCitas;
 });
 
-fetch(urlApiPacientes)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+fetch(urlApiPacientes)                 //API REST para la simulación de la tabla pacientes de la base de datos
   .then(response => response.json())
   .then(pacientes => {
       let contenidoPacientes = document.getElementById('contenidoPacientes');
@@ -208,7 +208,7 @@ fetch(urlApiDoctores)                 //API REST para la simulación de la tabla
           contenidoDoctores.innerHTML = headerDoctores + bodyDoctores.join('') + footerDoctores;
   });
 
-  fetch(urlApiConsultorios)                 //API REST para la simulación de la tabla tratamientos de la base de datos
+  fetch(urlApiConsultorios)                 //API REST para la simulación de la tabla consultorios de la base de datos
     .then(response => response.json())
     .then(consultorios => {
         let contenidoConsultorios = document.getElementById('contenidoConsultorios');
