@@ -541,7 +541,13 @@
       "id": 1
     },
     {
-      "paciente": "Juan Roman",
+      "paciente": {
+        "nombre": "Juan",
+        "apellido": "Roman",
+        "identificacion": "1062",
+        "genero": "Masculino",
+        "eps": "Compensar"
+      },
       "id": 2
     },
     {
