@@ -5,9 +5,8 @@
   "private": true,
   "scripts": {
     "start": "json-server --watch database/database.json --host localhost --port 3000",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "npm test"
+    "predeploy": "harp ./public ./build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
