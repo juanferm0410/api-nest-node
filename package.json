@@ -28,5 +28,6 @@
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/jorgelmunozp/consultorio-odontologico-backend-node/issues"
-  }
+  },
+  "devDependencies": {}
 }
