@@ -3,11 +3,11 @@
     {
       "cita": {
         "paciente": "Natalia Londoño",
-        "fecha": "2023-11-26",
-        "hora": "14:45",
+        "fecha": "2024-11-08",
+        "hora": "20:48",
         "consultorio": "301 Diseño Sonrisa",
         "doctor": "Erika Serna",
-        "tratamiento": "Diseño Sonrisa"
+        "tratamiento": "Ortodoncia"
       },
       "id": 1
     },
@@ -43,17 +43,6 @@
         "tratamiento": "Ortodoncia"
       },
       "id": 26
-    },
-    {
-      "cita": {
-        "paciente": "Natalia Londoño",
-        "fecha": "2023-11-25",
-        "hora": "15:42",
-        "consultorio": "301 Diseño Sonrisa",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Extracción"
-      },
-      "id": 31
     },
     {
       "cita": {
@@ -329,204 +318,6 @@
         "tratamiento": "Ortodoncia"
       },
       "id": 69
-    },
-    {
-      "cita": {
-        "paciente": "Paola Muñoz",
-        "fecha": "2023-11-27",
-        "hora": "14:47",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Antonio Restrepo",
-        "tratamiento": "Ortodoncia"
-      },
-      "id": 70
-    },
-    {
-      "cita": {
-        "paciente": "Jose Roman",
-        "fecha": "2023-11-27",
-        "hora": "19:40",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Erika Serna",
-        "tratamiento": "Diseño Sonrisa"
-      },
-      "id": 71
-    },
-    {
-      "cita": {
-        "paciente": "Jose Roman",
-        "fecha": "2023-11-27",
-        "hora": "19:54",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Antonio Restrepo",
-        "tratamiento": "Diseño Sonrisa"
-      },
-      "id": 81
-    },
-    {
-      "cita": {
-        "paciente": "Paola Muñoz",
-        "fecha": "2023-11-27",
-        "hora": "19:56",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Antonio Restrepo",
-        "tratamiento": "Diseño Sonrisa"
-      },
-      "id": 82
-    },
-    {
-      "cita": {
-        "paciente": "Jose Roman",
-        "fecha": "2023-11-27",
-        "hora": "19:59",
-        "consultorio": "401 Detartraje",
-        "doctor": "Antonio Restrepo",
-        "tratamiento": "Blanqueamiento"
-      },
-      "id": 83
-    },
-    {
-      "cita": {
-        "paciente": "Adriana Torres",
-        "fecha": "2023-11-27",
-        "hora": "20:07",
-        "consultorio": "101 Blanqueamiento",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Odontopediatría"
-      },
-      "id": 85
-    },
-    {
-      "cita": {
-        "paciente": "Pepe Sanz",
-        "fecha": "2023-11-27",
-        "hora": "20:09",
-        "consultorio": "502 Periodoncia",
-        "doctor": "Rene Rosas",
-        "tratamiento": "Cirugía"
-      },
-      "id": 86
-    },
-    {
-      "cita": {
-        "paciente": "Luisa Vasquez",
-        "fecha": "2023-11-27",
-        "hora": "20:30",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Blanqueamiento"
-      },
-      "id": 87
-    },
-    {
-      "cita": {
-        "paciente": "Natalia Londoño",
-        "fecha": "2023-11-27",
-        "hora": "21:05",
-        "consultorio": "402 Laboratorio",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Diseño Sonrisa"
-      },
-      "id": 89
-    },
-    {
-      "cita": {
-        "paciente": "Juan Lleras",
-        "fecha": "2023-11-27",
-        "hora": "21:05",
-        "consultorio": "502 Periodoncia",
-        "doctor": "Antonio Restrepo",
-        "tratamiento": "Ortodoncia"
-      },
-      "id": 90
-    },
-    {
-      "cita": {
-        "paciente": "Larry Vasquez",
-        "fecha": "2024-10-25",
-        "hora": "22:26",
-        "consultorio": "101 Blanqueamiento",
-        "doctor": "Andrea Reyes",
-        "tratamiento": "Limpieza"
-      },
-      "id": 92
-    },
-    {
-      "cita": {
-        "paciente": "Juan Roman",
-        "fecha": "2024-10-26",
-        "hora": "06:53",
-        "consultorio": "101 Blanqueamiento",
-        "doctor": "Jorge Muñoz",
-        "tratamiento": "Blanqueamiento"
-      },
-      "id": 93
-    },
-    {
-      "cita": {
-        "paciente": "Ana Marin",
-        "fecha": "2024-10-26",
-        "hora": "07:37",
-        "consultorio": "101 Blanqueamiento",
-        "doctor": "Jorge Muñoz",
-        "tratamiento": "Limpieza"
-      },
-      "id": 94
-    },
-    {
-      "cita": {
-        "paciente": "Pepe Sanz",
-        "fecha": "2024-10-26",
-        "hora": "07:40",
-        "consultorio": "701 Recuperación",
-        "doctor": "Erika Serna",
-        "tratamiento": "Cirugía"
-      },
-      "id": 95
-    },
-    {
-      "cita": {
-        "paciente": "Juan Lleras",
-        "fecha": "2024-10-26",
-        "hora": "07:58",
-        "consultorio": "601 Odontopediatría",
-        "doctor": "Johana Dorado",
-        "tratamiento": "Odontopediatría"
-      },
-      "id": 96
-    },
-    {
-      "cita": {
-        "paciente": "Pepe Sanz",
-        "fecha": "2024-10-26",
-        "hora": "08:01",
-        "consultorio": "601 Odontopediatría",
-        "doctor": "Jorge Muñoz",
-        "tratamiento": "Limpieza"
-      },
-      "id": 97
-    },
-    {
-      "cita": {
-        "paciente": "Larry Vasquez",
-        "fecha": "2024-10-26",
-        "hora": "18:19",
-        "consultorio": "502 Periodoncia",
-        "doctor": "Lorenzo Lopez",
-        "tratamiento": "Detartrajes"
-      },
-      "id": 98
-    },
-    {
-      "cita": {
-        "paciente": "Luisa Vasquez",
-        "fecha": "2024-10-26",
-        "hora": "18:29",
-        "consultorio": "301 Diseño Sonrisa",
-        "doctor": "Erika Serna",
-        "tratamiento": "Detartrajes"
-      },
-      "id": 99
     }
   ],
   "pacientes": [
@@ -536,7 +327,7 @@
         "apellido": "Vasquez",
         "identificacion": "1061",
         "genero": "Masculino",
-        "eps": "Sanitas"
+        "eps": "Comfenalco"
       },
       "id": 1
     },
@@ -546,7 +337,7 @@
         "apellido": "Roman",
         "identificacion": "1062",
         "genero": "Masculino",
-        "eps": "Compensar"
+        "eps": "Emssanar"
       },
       "id": 2
     },
@@ -649,16 +440,6 @@
         "eps": "Sanitas"
       },
       "id": 13
-    },
-    {
-      "paciente": {
-        "nombre": "aaa",
-        "apellido": "bbb",
-        "identificacion": "999",
-        "genero": "No binario",
-        "eps": "SOS"
-      },
-      "id": 14
     }
   ],
   "doctores": [
@@ -668,7 +449,7 @@
         "apellido": "Muñoz",
         "identificacion": "1080",
         "genero": "Masculino",
-        "especialidad": "Imagenología"
+        "especialidad": "Blanqueamiento"
       },
       "id": 1
     },
@@ -678,7 +459,7 @@
         "apellido": "Castillo",
         "identificacion": "1081",
         "genero": "Masculino",
-        "especialidad": "Ortodoncista"
+        "especialidad": "Diseño Sonrisa"
       },
       "id": 2
     },
@@ -688,7 +469,7 @@
         "apellido": "García",
         "identificacion": "1082",
         "genero": "Masculino",
-        "especialidad": "Imagenología"
+        "especialidad": "Ortodoncia"
       },
       "id": 3
     },
@@ -796,9 +577,9 @@
   "tratamientos": [
     {
       "tratamiento": {
-        "especialidad": "Diseño Sonrisa",
-        "consultorio": "301 Diseño Sonrisa",
-        "doctor": "Erika Serna"
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
       },
       "id": 1
     },
@@ -814,7 +595,7 @@
       "tratamiento": {
         "especialidad": "Ortodoncia",
         "consultorio": "201 Prótesis",
-        "doctor": "Mateo Garcia"
+        "doctor": "Jose Castillo"
       },
       "id": 3
     },
@@ -828,9 +609,9 @@
     },
     {
       "tratamiento": {
-        "especialidad": "Extracción",
-        "consultorio": "401 Detartraje",
-        "doctor": "Jose Castillo"
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
       },
       "id": 7
     },
@@ -869,7 +650,7 @@
     {
       "tratamiento": {
         "especialidad": "Higiene Oral",
-        "consultorio": "702 Gerencia",
+        "consultorio": "301 Diseño Sonrisa",
         "doctor": "Erika Serna"
       },
       "id": 12
@@ -921,6 +702,662 @@
         "doctor": "Mateo García"
       },
       "id": 18
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 19
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 20
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 21
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 22
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 23
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 24
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 25
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 26
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 27
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 28
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 29
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Johana Dorado"
+      },
+      "id": 30
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 31
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 32
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
+      },
+      "id": 33
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 34
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 35
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 36
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
+      },
+      "id": 37
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 38
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
+      },
+      "id": 39
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 40
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 41
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 42
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
+      },
+      "id": 43
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 44
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 45
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 46
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "202 Ortodoncia",
+        "doctor": "Edwin Perez"
+      },
+      "id": 47
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 48
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 49
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 50
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Extracción",
+        "consultorio": "602 Cirugía maxilar",
+        "doctor": "Jenifer Sarria"
+      },
+      "id": 51
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 52
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 53
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 54
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 55
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 56
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 57
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 58
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 59
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Mateo García"
+      },
+      "id": 60
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jose Castillo"
+      },
+      "id": 61
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 62
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 63
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jose Castillo"
+      },
+      "id": 64
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "102 Higiene",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 65
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Mateo García"
+      },
+      "id": 66
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 67
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 68
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 69
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 70
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 71
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 72
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 73
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 74
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 75
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 76
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 77
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Ortodoncia",
+        "consultorio": "102 Higiene",
+        "doctor": "Jose Castillo"
+      },
+      "id": 78
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 79
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 80
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 81
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 82
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 83
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 84
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 85
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 86
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 87
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "102 Higiene",
+        "doctor": "Mateo García"
+      },
+      "id": 88
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 89
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 90
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 91
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 92
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "301 Diseño Sonrisa",
+        "doctor": "Erika Serna"
+      },
+      "id": 93
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 94
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jose Castillo"
+      },
+      "id": 95
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 96
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "102 Higiene",
+        "doctor": "Jose Castillo"
+      },
+      "id": 97
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Blanqueamiento",
+        "consultorio": "201 Prótesis",
+        "doctor": "Jose Castillo"
+      },
+      "id": 98
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 99
+    },
+    {
+      "tratamiento": {
+        "especialidad": "Diseño Sonrisa",
+        "consultorio": "101 Blanqueamiento",
+        "doctor": "Jorge Muñoz"
+      },
+      "id": 100
     }
   ],
   "consultorios": [
@@ -1084,6 +1521,69 @@
         "nombre": "abcdef"
       },
       "id": 24
+    },
+    {
+      "consultorio": {
+        "numero": "777",
+        "nombre": "hola"
+      },
+      "id": 25
+    },
+    {
+      "consultorio": {
+        "numero": "10",
+        "nombre": "H"
+      },
+      "id": 26
+    },
+    {
+      "consultorio": {
+        "numero": "333",
+        "nombre": "eee"
+      },
+      "id": 27
+    },
+    {
+      "consultorio": {
+        "numero": "12",
+        "nombre": "ab"
+      },
+      "id": 28
+    },
+    {
+      "consultorio": {
+        "numero": "10",
+        "nombre": "ab"
+      },
+      "id": 29
+    },
+    {
+      "consultorio": {
+        "numero": "10",
+        "nombre": "ab"
+      },
+      "id": 30
+    },
+    {
+      "consultorio": {
+        "numero": "101",
+        "nombre": "abc"
+      },
+      "id": 31
+    },
+    {
+      "consultorio": {
+        "numero": "333",
+        "nombre": "eee"
+      },
+      "id": 32
+    },
+    {
+      "consultorio": {
+        "numero": "444",
+        "nombre": "AAA"
+      },
+      "id": 33
     }
   ],
   "especialidades": [
@@ -1176,6 +1676,12 @@
         "nombre": "xxx"
       },
       "id": 17
+    },
+    {
+      "especialidad": {
+        "nombre": "abcd"
+      },
+      "id": 18
     }
   ],
   "epss": [
