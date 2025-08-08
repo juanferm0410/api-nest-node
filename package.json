@@ -14,7 +14,7 @@
     "json-server": "^1.0.0-beta.3"
   },
   "description": "<h1 align=\"center\">El Consultorio </h1>\r <h2 align=\"center\">Backend NodeJs App </h2>",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
