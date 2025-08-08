@@ -4,20 +4,35 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "json-server --watch database/database.json --host localhost --port 3000",
+    "start": "json-server --watch database/database.json",
     "predeploy": "harp ./public ./build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.4",
     "consultorio-odontologico-backend-node": "file:",
+    "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "dotenv": "^16.3.1",
     "express": "~4.16.1",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "http-errors": "~1.6.3",
-    "json-server": "^0.17.4",
+    "json-server": "^1.0.0-beta.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
+  },
+  "description": "<h1 align=\"center\">La Inmobiliaria </h1>\r <h2 align=\"center\">Backend NodeJs App </h2>",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgelmunozp/consultorio-odontologico-backend-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jorgelmunozp/consultorio-odontologico-backend-node/issues"
   }
 }
