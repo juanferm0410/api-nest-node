@@ -1,5 +1,5 @@
 {
-  "name": "inmobiliaria-backend-node",
+  "name": "consultorio-odontologico-backend-node",
   "homepage": "https://jorgelmunozp.github.io/inmobiliaria-backend-node",
   "version": "0.0.0",
   "private": true,
@@ -12,12 +12,8 @@
     "consultorio-odontologico-backend-node": "file:",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
     "gh-pages": "^6.3.0",
-    "http-errors": "~1.6.3",
-    "json-server": "^1.0.0-beta.3",
-    "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11"
+    "json-server": "^1.0.0-beta.3"
   },
   "description": "<h1 align=\"center\">La Inmobiliaria </h1>\r <h2 align=\"center\">Backend NodeJs App </h2>",
   "main": "webpack.config.js",
