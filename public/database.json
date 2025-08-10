@@ -498,12 +498,12 @@
     {
       "id": "8be2",
       "cita": {
-        "paciente": "Paola Muñoz",
-        "fecha": "2025-08-10",
-        "hora": "07:04",
-        "consultorio": "202 Ortodoncia",
-        "doctor": "Mateo García",
-        "tratamiento": "Ortodoncia"
+        "paciente": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU",
+        "fecha": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU",
+        "hora": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU",
+        "consultorio": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU",
+        "doctor": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU",
+        "tratamiento": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.IiI.ENjkwIZ2yaBzPBnX5AtHmwSKbMsUbfR9_LdhgDdHxzU"
       }
     },
     {
