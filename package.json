@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "json-server --watch database.json",
+    "start": "json-server --watch public/database.json",
     "predeploy": "harp ./public ./build",
     "deploy": "gh-pages -d build"
   },
