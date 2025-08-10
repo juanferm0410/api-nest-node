@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "debug": "~2.6.9",
-    "gh-pages": "^6.3.0",
-    "json-server": "^1.0.0-beta.3"
+    "gh-pages": "^6.0.0",
+    "json-server": "^0.17.0"
   },
   "description": "<h1 align=\"center\">El Consultorio </h1>\r <h2 align=\"center\">Backend NodeJs App </h2>",
   "main": "index.js",
@@ -28,6 +28,5 @@
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/jorgelmunozp/consultorio-odontologico-backend-node/issues"
-  },
-  "devDependencies": {}
+  }
 }
