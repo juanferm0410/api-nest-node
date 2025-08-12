@@ -9,24 +9,17 @@
     },
     {
       "user": {
-        "name": "luis",
+        "name": "manuel",
         "id": 1062
       },
       "id": 2
     },
     {
       "user": {
-        "name": "Luisa",
+        "name": "santiago",
         "id": 1063
       },
       "id": 3
-    },
-    {
-      "user": {
-        "name": "jhon",
-        "id": 1064
-      },
-      "id": 4
     }
   ]
 }

@@ -29,9 +29,16 @@ let UsersController = class UsersController {
     writeData(data) {
         fs.writeFileSync(this.dataFile, JSON.stringify(data, null, 2));
     }
-    getAllUsers() {
+    getAllUsers(limit) {
         const fileContent = this.readData();
-        return fileContent.users || [];
+        let users = fileContent.users || [];
+        if (limit) {
+            const parsedLimit = parseInt(limit, 10);
+            if (!isNaN(parsedLimit) && parsedLimit > 0) {
+                users = users.slice(0, parsedLimit);
+            }
+        }
+        return users;
     }
     getById(id) {
         const data = this.readData();
@@ -98,8 +105,9 @@ let UsersController = class UsersController {
 exports.UsersController = UsersController;
 __decorate([
     (0, common_1.Get)(),
+    __param(0, (0, common_1.Query)('limit')),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", []),
+    __metadata("design:paramtypes", [String]),
     __metadata("design:returntype", void 0)
 ], UsersController.prototype, "getAllUsers", null);
 __decorate([

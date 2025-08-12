@@ -2,7 +2,7 @@ export declare class UsersController {
     private dataFile;
     private readData;
     private writeData;
-    getAllUsers(): any;
+    getAllUsers(limit?: string): any;
     getById(id: string): any;
     addUser(body: any): {
         message: string;

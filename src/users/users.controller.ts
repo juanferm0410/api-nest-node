@@ -8,7 +8,8 @@ import {
   Param,
   Body,
   BadRequestException,
-  NotFoundException
+  NotFoundException,
+  Query
 } from '@nestjs/common';
 import * as fs from 'fs';
 import * as path from 'path';
@@ -29,10 +30,20 @@ export class UsersController {
   }
 
   @Get()
-  getAllUsers() {
-    const fileContent = this.readData();
-    return fileContent.users || [];
+getAllUsers(@Query('limit') limit?: string) {
+  const fileContent = this.readData();
+  let users = fileContent.users || [];
+
+  if (limit) {
+    const parsedLimit = parseInt(limit, 10);
+    if (!isNaN(parsedLimit) && parsedLimit > 0) {
+      users = users.slice(0, parsedLimit);
+    }
   }
+
+  return users;
+}
+
 
   // GET /users/:id
   @Get(':id')
