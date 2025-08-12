@@ -21,9 +21,9 @@
 
 ## Description
 
-This project consists of the implementation of a non-relational database MongoDB in an API RESTful architecture with their respective endpoints.
+This project consists of the implementation of a non-relational database MongoDB in an API RESTful architecture in Nest Js over Node Js with their respective endpoints.
 
-* This project was developed with JavaScript ES6, Html, and Css in Node Js.
+* This project was developed with TypeScript, Html, and Css in Node Js.
 
 ## Authors
 
