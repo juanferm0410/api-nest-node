@@ -1,0 +1,18 @@
+{
+    "/api/v1/citas": "/citas",
+    "/api/v1/citas/:id": "/citas/:id",
+    "/api/v1/pacientes": "/pacientes",
+    "/api/v1/pacientes/:id": "/pacientes/:id",
+    "/api/v1/doctores": "/doctores",
+    "/api/v1/doctores/:id": "/doctores/:id",
+    "/api/v1/consultorios": "/consultorios",
+    "/api/v1/consultorios/:id": "/consultorios/:id",
+    "/api/v1/especialidades": "/especialidades",
+    "/api/v1/especialidades/:id": "/especialidades/:id",
+    "/api/v1/tratamientos": "/tratamientos",
+    "/api/v1/tratamientos/:id": "/tratamientos/:id",
+    "/api/v1/epss": "/epss",
+    "/api/v1/epss/:id": "/epss/:id",
+    "/api/v1/generos": "/generos",
+    "/api/v1/generos/:id": "/generos/:id"
+}
