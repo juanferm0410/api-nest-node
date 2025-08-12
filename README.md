@@ -1,4 +1,4 @@
-<h1 align="center">La Inmobiliaria </h1>
+<h1 align="center">API Json-Server </h1>
 <h2 align="center">Backend NodeJs App </h2>
 
 <p align="center">
@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
 
-* Demo: [La Inmobiliaria Backend](https://jorgelmunozp.github.io/consultorio-odontologico-backend-node/)
-* Demo: [La Inmobiliaria FrontEnd](https://jorgelmunozp.github.io/consultorio-odontologico-frontend-react/)
+* Demo: [Database API](https://jorgelmunozp.github.io/api-json-server-node/database.json)
+
 
 ***
 
@@ -21,7 +21,7 @@
 
 ## Description
 
-This project consists of the development of a Agenda Consultorio Odontológico aplication with non relational database Mongo DB and API RESTful architecture to connect with the client app.
+This project consists of the implementation of a non-relational database MongoDB in an API RESTful architecture with their respective endpoints.
 
 * This project was developed with JavaScript ES6, Html, and Css in Node Js.
 
@@ -32,6 +32,6 @@ This project consists of the development of a Agenda Consultorio Odontológico a
 
 ## License
 
-Agenda Consultorio Odontológico is [MIT licensed](/docs/LICENSE.txt).
+API Json-Server is [MIT licensed](/docs/LICENSE.txt).
 
-Agenda Consultorio Odontológico documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
+API Json-Server documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
