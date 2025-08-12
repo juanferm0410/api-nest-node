@@ -1,4 +1,4 @@
-<h1 align="center">API Json-Server </h1>
+<h1 align="center">API Nest Js </h1>
 <h2 align="center">Backend NodeJs App </h2>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
 
-* Demo: [Database API](https://jorgelmunozp.github.io/api-json-server-node/database.json)
+* Demo: [Database API](https://jorgelmunozp.github.io/api-nest-node/database.json)
 
 
 ***
